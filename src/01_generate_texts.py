@@ -9,7 +9,7 @@ from datetime import datetime
 from itertools import product
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(project_root / '.env')
 
 base_dir = Path(__file__).resolve().parent
 
