@@ -45,6 +45,9 @@ def parse_file(jsonl_path, nlp, out_dir):
             text = strip_markdown(text)
             doc = nlp(text)
             for sentence in doc.sentences:
+                sentence.add_comment(f"model = {record['model']}")
+                sentence.add_comment(f"language = {record['language']}")
+                sentence.add_comment(f"prompt_type = {record['prompt_type']}")
                 sentence.add_comment(f"temperature = {record['temperature']}")
                 sentence.add_comment(f'seed = {record["seed"]}')
                 sentence.add_comment(f'record_id = {record["record_id"]}')
