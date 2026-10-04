@@ -51,15 +51,18 @@ for file in parsed_proc.glob('*.conllu'):
             continue
         mdd = dd_sum / number
         mean_depth = sum(depths) / len(depths)
+        model = sentence.meta['model']
+        language = sentence.meta['language']
+        prompt_type = sentence.meta['prompt_type']
         temperature = sentence.meta['temperature']
         seed = sentence.meta['seed']
         record_id = sentence.meta['record_id']
         
-        rows.append([file_name, sent_id, length, max_depth, mean_depth, mdd, temperature, seed, record_id])
+        rows.append([model, language, prompt_type, sent_id, length, max_depth, mean_depth, mdd, temperature, seed, record_id])
         
 with open(metrics_proc / 'metrics.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(['file_name', 'sent_id', 'length', 'max_depth', 'mean_depth', 'mdd', 'temperature', 'seed', 'record_id'])
+    writer.writerow(['model', 'language', 'prompt_type', 'sent_id', 'length', 'max_depth', 'mean_depth', 'mdd', 'temperature', 'seed', 'record_id'])
     for row in rows:
         writer.writerow(row)
 
