@@ -1,5 +1,8 @@
 # text = Hey, fellow book‑worms! 📚
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 63c1e6f9-84f9-419d-a06e-826674923eb1
@@ -13,6 +16,9 @@
 
 # text = Just a quick heads‑up about the new library schedule so you can plan your study sessions and chill nights.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 63c1e6f9-84f9-419d-a06e-826674923eb1
@@ -40,6 +46,9 @@
 
 # text = From now on, the library’s open Monday through Friday from 8 a.m. to 10 p.m. – that’s a solid 14 hours of book‑time every weekday.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 63c1e6f9-84f9-419d-a06e-826674923eb1
@@ -78,6 +87,9 @@
 
 # text = If you’re a weekend person, no worries: it’s open Saturday and Sunday from 10 a.m. to 6 p.m.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 63c1e6f9-84f9-419d-a06e-826674923eb1
@@ -109,6 +121,9 @@
 
 # text = So whether you’re burning the midnight oil or just need a quiet spot for a quick read, we’ve got you covered.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 63c1e6f9-84f9-419d-a06e-826674923eb1
@@ -142,6 +157,9 @@
 
 # text = Feel free to drop by, grab a coffee (the café’s still open during those hours), and dive into whatever you need.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 63c1e6f9-84f9-419d-a06e-826674923eb1
@@ -176,6 +194,9 @@
 
 # text = And if you’re looking for a study buddy or just want to chat about the latest bestseller, the library’s the place to be.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 63c1e6f9-84f9-419d-a06e-826674923eb1
@@ -211,6 +232,9 @@
 
 # text = Happy reading! 🚀
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 63c1e6f9-84f9-419d-a06e-826674923eb1
@@ -221,6 +245,9 @@
 
 # text = Hey, book‑worms!
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 3eccf6ad-7521-409b-a7e9-25d7730214e1
@@ -232,6 +259,9 @@
 
 # text = 📚
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 3eccf6ad-7521-409b-a7e9-25d7730214e1
@@ -239,6 +269,9 @@
 
 # text = Just a quick heads‑up about the new library schedule so you can plan your study sessions and chill nights.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 3eccf6ad-7521-409b-a7e9-25d7730214e1
@@ -266,6 +299,9 @@
 
 # text = Weekdays (Mon‑Fri): 8 a.m. to 10 p.m. – that’s a solid 14‑hour stretch, so whether you’re an early‑bird or a night owl, you’ve got plenty of time to hit the stacks, grab a coffee, or work on that group project.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 3eccf6ad-7521-409b-a7e9-25d7730214e1
@@ -328,6 +364,9 @@
 
 # text = Weekends (Sat‑Sun): 10 a.m. to 6 p.m. – a bit shorter, but still enough for a relaxed Saturday read or a Sunday research sesh.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 3eccf6ad-7521-409b-a7e9-25d7730214e1
@@ -363,6 +402,9 @@
 
 # text = Feel free to swing by anytime during those hours.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 3eccf6ad-7521-409b-a7e9-25d7730214e1
@@ -379,6 +421,9 @@
 
 # text = The staff is friendly, the Wi‑Fi’s fast, and there’s always a comfy spot to crash with your notes.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 3eccf6ad-7521-409b-a7e9-25d7730214e1
@@ -410,6 +455,9 @@
 
 # text = Happy studying, and enjoy the extra hours! 🚀
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 3eccf6ad-7521-409b-a7e9-25d7730214e1
@@ -426,6 +474,9 @@
 
 # text = Hey folks!
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = d31b6ed8-fc91-4cf3-a270-223dcc9f3774
@@ -435,6 +486,9 @@
 
 # text = 🎉
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = d31b6ed8-fc91-4cf3-a270-223dcc9f3774
@@ -442,6 +496,9 @@
 
 # text = Just a quick heads‑up about the new library schedule so you can plan your study sessions without any surprises.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = d31b6ed8-fc91-4cf3-a270-223dcc9f3774
@@ -469,6 +526,9 @@
 
 # text = From now on, the library is open Monday through Friday from 8:00 am to 10:00 pm.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = d31b6ed8-fc91-4cf3-a270-223dcc9f3774
@@ -493,6 +553,9 @@
 
 # text = So whether you’re an early‑bird cramming for that mid‑term or a night owl hitting the books after class, there’s plenty of time to get in.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = d31b6ed8-fc91-4cf3-a270-223dcc9f3774
@@ -531,6 +594,9 @@
 
 # text = On weekends, the hours shift a bit: Saturday and Sunday from 10:00 am to 6:00 pm.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = d31b6ed8-fc91-4cf3-a270-223dcc9f3774
@@ -556,6 +622,9 @@
 
 # text = That gives you a solid block of afternoon study time if you’re looking to finish projects or catch up on reading before the week starts.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = d31b6ed8-fc91-4cf3-a270-223dcc9f3774
@@ -590,6 +659,9 @@
 
 # text = No need to stress about closing times—just swing by, grab a comfy chair, and let the books do the rest.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = d31b6ed8-fc91-4cf3-a270-223dcc9f3774
@@ -621,6 +693,9 @@
 
 # text = Happy studying!
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = d31b6ed8-fc91-4cf3-a270-223dcc9f3774
@@ -630,6 +705,9 @@
 
 # text = 📚✨
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = d31b6ed8-fc91-4cf3-a270-223dcc9f3774
@@ -637,6 +715,9 @@
 
 # text = Hey folks! 🎓📚
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 1cc88f22-4beb-4ba3-a85d-db5146576674
@@ -647,6 +728,9 @@
 
 # text = Just a quick heads‑up about the new library schedule so you can plan your study sessions without any surprises.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 1cc88f22-4beb-4ba3-a85d-db5146576674
@@ -674,6 +758,9 @@
 
 # text = From now on the library’s open Monday‑Friday from 8:00 am to 10:00 pm, so whether you’re an early‑bird or a night‑owl, you’ve got plenty of time to hit the books, grab a coffee, or just hang out with classmates.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 1cc88f22-4beb-4ba3-a85d-db5146576674
@@ -732,6 +819,9 @@
 
 # text = Weekends are a bit tighter: Saturday and Sunday are 10:00 am to 6:00 pm.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 1cc88f22-4beb-4ba3-a85d-db5146576674
@@ -754,6 +844,9 @@
 
 # text = It’s still a solid chunk of time to get in a marathon session or catch up on projects before class starts again.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 1cc88f22-4beb-4ba3-a85d-db5146576674
@@ -785,6 +878,9 @@
 
 # text = So, if you’ve been missing out on that late‑night study zone, it’s back!
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 1cc88f22-4beb-4ba3-a85d-db5146576674
@@ -811,6 +907,9 @@
 
 # text = Drop by, grab your favorite snacks, and enjoy a quiet spot to power through your assignments.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 1cc88f22-4beb-4ba3-a85d-db5146576674
@@ -836,6 +935,9 @@
 
 # text = See you there! 🚀
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 1cc88f22-4beb-4ba3-a85d-db5146576674
@@ -847,6 +949,9 @@
 
 # text = Hey students!
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = 568da608-5f27-400f-9d63-b04ca5c43056
@@ -856,6 +961,9 @@
 
 # text = Quick heads‑up: our library’s been re‑tuned to fit your schedule better.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = 568da608-5f27-400f-9d63-b04ca5c43056
@@ -877,6 +985,9 @@
 
 # text = From Monday to Friday you’re free to drop in from 8:00 am to 10:00 pm.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = 568da608-5f27-400f-9d63-b04ca5c43056
@@ -901,6 +1012,9 @@
 
 # text = Yep, that’s a full night for midnight cramming, last‑minute prep, or just a quiet corner to unwind with a book.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = 568da608-5f27-400f-9d63-b04ca5c43056
@@ -933,6 +1047,9 @@
 
 # text = Weekends are still cozy, but just a bit shorter: Saturday & Sunday we’re open 10:00 am – 6:00 pm.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = 568da608-5f27-400f-9d63-b04ca5c43056
@@ -963,6 +1080,9 @@
 
 # text = That gives you plenty of daylight hours to work on those spring projects or just study, plus extra time for weekend reading sessions.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = 568da608-5f27-400f-9d63-b04ca5c43056
@@ -994,6 +1114,9 @@
 
 # text = All good?
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = 568da608-5f27-400f-9d63-b04ca5c43056
@@ -1003,6 +1126,9 @@
 
 # text = Bring your study buds, your laptop, and an ear for some good old quiet.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = 568da608-5f27-400f-9d63-b04ca5c43056
@@ -1026,6 +1152,9 @@
 
 # text = And of course, there’s plenty of coffee, snacks, and power outlets.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = 568da608-5f27-400f-9d63-b04ca5c43056
@@ -1049,6 +1178,9 @@
 
 # text = See you there!
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = 568da608-5f27-400f-9d63-b04ca5c43056
@@ -1059,6 +1191,9 @@
 
 # text = 📚🚀
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = 568da608-5f27-400f-9d63-b04ca5c43056
@@ -1066,6 +1201,9 @@
 
 # text = Hey guys!
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = 4b65daa4-108f-4b81-8d32-8172b0982314
@@ -1075,6 +1213,9 @@
 
 # text = Just a quick heads‑up: our library is stretching out its hours so you can dive into those late‑night study sessions or hit those early‑morning prep jams.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = 4b65daa4-108f-4b81-8d32-8172b0982314
@@ -1110,6 +1251,9 @@
 
 # text = From Monday to Friday it’s open an hour before opening class, 8 AM sharp, all the way through midnight (actually 10 PM).
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = 4b65daa4-108f-4b81-8d32-8172b0982314
@@ -1145,6 +1289,9 @@
 
 # text = Yeah, that’s pretty cool if you’re into the “studying under dim light” vibe.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = 4b65daa4-108f-4b81-8d32-8172b0982314
@@ -1172,6 +1319,9 @@
 
 # text = Weekends are a bit chillier but still convenient – Saturday and Sunday mornings start at 10 AM, and it stays open until 6 PM, so that gives you the afternoon slots or the possibility of grabbing a coffee and hitting those PDFs.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = 4b65daa4-108f-4b81-8d32-8172b0982314
@@ -1223,6 +1373,9 @@
 
 # text = So next time you’re hunting for books or group study space, roll in during these fresh hours – we’ve made room for your hustle!
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = 4b65daa4-108f-4b81-8d32-8172b0982314
@@ -1259,6 +1412,9 @@
 
 # text = Happy studying, and swing by whenever you need a quiet space or just someone to chat over a cup of the good stuff. :)
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = 4b65daa4-108f-4b81-8d32-8172b0982314
@@ -1291,6 +1447,9 @@
 
 # text = Hey, fellow book‑worms! 📚
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = dd7ea491-3310-45a1-a057-0e8c1affe122
@@ -1304,6 +1463,9 @@
 
 # text = Just a quick heads‑up about the new library schedule so you can plan your study sessions and chill nights.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = dd7ea491-3310-45a1-a057-0e8c1affe122
@@ -1331,6 +1493,9 @@
 
 # text = From now on, the library’s open Monday through Friday from 8 a.m. to 10 p.m. – that’s a solid 14 hours of book‑time every weekday.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = dd7ea491-3310-45a1-a057-0e8c1affe122
@@ -1369,6 +1534,9 @@
 
 # text = If you’re a weekend person, no worries: it’s open Saturday and Sunday from 10 a.m. to 6 p.m.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = dd7ea491-3310-45a1-a057-0e8c1affe122
@@ -1400,6 +1568,9 @@
 
 # text = So whether you’re burning the midnight oil or just need a quiet spot for a quick read, we’ve got you covered.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = dd7ea491-3310-45a1-a057-0e8c1affe122
@@ -1433,6 +1604,9 @@
 
 # text = Feel free to drop by, grab a coffee (the café’s still open during those hours), and dive into whatever you need.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = dd7ea491-3310-45a1-a057-0e8c1affe122
@@ -1467,6 +1641,9 @@
 
 # text = And if you’re looking for a study buddy or just want to chat about the latest bestseller, the library’s the place to be.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = dd7ea491-3310-45a1-a057-0e8c1affe122
@@ -1502,6 +1679,9 @@
 
 # text = Happy reading! 🚀
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = dd7ea491-3310-45a1-a057-0e8c1affe122
@@ -1512,6 +1692,9 @@
 
 # text = Hey everyone! 📚
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = 9268563c-ba7f-472a-a2e9-ae965506f035
@@ -1522,6 +1705,9 @@
 
 # text = Just a quick heads‑up about the new library schedule so you can plan your study sessions or chill reading time.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = 9268563c-ba7f-472a-a2e9-ae965506f035
@@ -1550,6 +1736,9 @@
 
 # text = The library’s now open Monday‑Friday from 8:00 am to 10:00 pm – that’s a solid 14‑hour stretch for all those late‑night crammers and early‑bird brains.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = 9268563c-ba7f-472a-a2e9-ae965506f035
@@ -1589,6 +1778,9 @@
 
 # text = On the weekends, it’s a bit more relaxed: Saturday and Sunday, the doors open at 10:00 am and close at 6:00 pm.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = 9268563c-ba7f-472a-a2e9-ae965506f035
@@ -1623,6 +1815,9 @@
 
 # text = So if you’re looking to catch up on a book or hit the computers after a long week, you’ve got plenty of time.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = 9268563c-ba7f-472a-a2e9-ae965506f035
@@ -1658,6 +1853,9 @@
 
 # text = Feel free to drop by, grab a coffee, and dive into whatever you need.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = 9268563c-ba7f-472a-a2e9-ae965506f035
@@ -1681,6 +1879,9 @@
 
 # text = The staff are still there to help, and the quiet study zones are ready for you.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = 9268563c-ba7f-472a-a2e9-ae965506f035
@@ -1705,6 +1906,9 @@
 
 # text = Happy reading, and see you in the stacks! 🚀
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = 9268563c-ba7f-472a-a2e9-ae965506f035
@@ -1722,6 +1926,9 @@
 
 # text = Hey everyone!
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 13f3d5bc-763a-49b2-bce1-1dcd7a665e32
@@ -1731,6 +1938,9 @@
 
 # text = 🎉 Quick heads‑up about the library’s new schedule so you can plan your study sesh or chill time.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 13f3d5bc-763a-49b2-bce1-1dcd7a665e32
@@ -1759,6 +1969,9 @@
 
 # text = 📚 Monday‑Friday – 8:00 am to 10:00 pm.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 13f3d5bc-763a-49b2-bce1-1dcd7a665e32
@@ -1775,6 +1988,9 @@
 
 # text = That’s a solid 14‑hour window for early‑bird bookworms and night‑owl researchers.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 13f3d5bc-763a-49b2-bce1-1dcd7a665e32
@@ -1797,6 +2013,9 @@
 
 # text = 🗓️ Saturday‑Sunday – 10:00 am to 6:00 pm. Perfect for a weekend coffee‑and‑read combo or a last‑minute prep before the week starts.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 13f3d5bc-763a-49b2-bce1-1dcd7a665e32
@@ -1828,6 +2047,9 @@
 
 # text = So whether you’re cramming for finals, working on a group project, or just looking for a quiet spot to unwind, the library’s got you covered all week long.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 13f3d5bc-763a-49b2-bce1-1dcd7a665e32
@@ -1870,6 +2092,9 @@
 
 # text = Bring your laptop, snacks, and that good vibe, and let the good study times roll! 🚀
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 13f3d5bc-763a-49b2-bce1-1dcd7a665e32
@@ -1896,6 +2121,9 @@
 
 # text = See you there!
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 13f3d5bc-763a-49b2-bce1-1dcd7a665e32
@@ -1906,6 +2134,9 @@
 
 # text = Hey fellow book‑worms!
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = ed7b0820-08aa-4419-a3f5-bf1e46a88b58
@@ -1917,6 +2148,9 @@
 
 # text = 🎉
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = ed7b0820-08aa-4419-a3f5-bf1e46a88b58
@@ -1924,6 +2158,9 @@
 
 # text = Just a quick heads‑up about the new library hours so you can plan your study sessions without missing out.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = ed7b0820-08aa-4419-a3f5-bf1e46a88b58
@@ -1951,6 +2188,9 @@
 
 # text = 📚 Monday – Friday: 8:00 a.m. – 10:00 p.m. 🎈
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = ed7b0820-08aa-4419-a3f5-bf1e46a88b58
@@ -1968,6 +2208,9 @@
 
 # text = So whether you’re an early bird or a night owl, you’ve got plenty of time to hit the shelves, stash your notes, or just chill with a good read.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = ed7b0820-08aa-4419-a3f5-bf1e46a88b58
@@ -2011,6 +2254,9 @@
 
 # text = 🌞 Weekend Vibes: Saturday & Sunday: 10:00 a.m. – 6:00 p.m.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = ed7b0820-08aa-4419-a3f5-bf1e46a88b58
@@ -2030,6 +2276,9 @@
 
 # text = Perfect for catching up on those late‑night assignments or just soaking up a relaxed Saturday afternoon with coffee and quiet corners.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = ed7b0820-08aa-4419-a3f5-bf1e46a88b58
@@ -2058,6 +2307,9 @@
 
 # text = No need to rush—grab a fresh latte, settle in, and get those study goals checked off.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = ed7b0820-08aa-4419-a3f5-bf1e46a88b58
@@ -2085,6 +2337,9 @@
 
 # text = We’re here to help you crush those grades (or just unwind with a great novel).
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = ed7b0820-08aa-4419-a3f5-bf1e46a88b58
@@ -2111,6 +2366,9 @@
 
 # text = Catch you in the stacks!
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = ed7b0820-08aa-4419-a3f5-bf1e46a88b58
@@ -2123,6 +2381,9 @@
 
 # text = 🚀📖
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = ed7b0820-08aa-4419-a3f5-bf1e46a88b58
@@ -2130,6 +2391,9 @@
 
 # text = Hey there, fellow book‑worms and study‑huggers! 📚
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 1dcd53e6-afbb-4bc6-baec-22904b8812f1
@@ -2147,6 +2411,9 @@
 
 # text = Just a heads‑up that we’ve tweaked the library’s schedule so you can fit more reading (or cramming) into your week.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 1dcd53e6-afbb-4bc6-baec-22904b8812f1
@@ -2181,6 +2448,9 @@
 
 # text = Here’s the low‑down:
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 1dcd53e6-afbb-4bc6-baec-22904b8812f1
@@ -2194,6 +2464,9 @@
 
 # text = Weekdays (Mon‑Fri) – 8:00 am to 10:00 pm Start your day with a coffee‑powered research session or kick back after class to breeze through assignments.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 1dcd53e6-afbb-4bc6-baec-22904b8812f1
@@ -2228,6 +2501,9 @@
 
 # text = Weekend (Sat‑Sun) – 10:00 am to 6:00 pm Ideal for catching up on overdue essays, diving into a new novel, or just lounging in the comfy reading nook.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 1dcd53e6-afbb-4bc6-baec-22904b8812f1
@@ -2267,6 +2543,9 @@
 
 # text = If you need more quiet space for late‑night study sessions, the week‑night hours are perfect.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 1dcd53e6-afbb-4bc6-baec-22904b8812f1
@@ -2291,6 +2570,9 @@
 
 # text = We’re still here to help, so feel free to drop by whenever.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 1dcd53e6-afbb-4bc6-baec-22904b8812f1
@@ -2313,6 +2595,9 @@
 
 # text = Good luck with your projects, and don’t forget to snag a bookmark before you leave! 😉
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 1dcd53e6-afbb-4bc6-baec-22904b8812f1
@@ -2339,6 +2624,9 @@
 
 # text = Hey classmates! 👋
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2349,6 +2637,9 @@
 
 # text = Just a heads‑up that the library’s got new hours now.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2369,6 +2660,9 @@
 
 # text = The good news?
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2379,6 +2673,9 @@
 
 # text = The place stays open most days with plenty of time to power up on assignments, read a good book, or study with our awesome group.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2413,6 +2710,9 @@
 
 # text = From Monday through Friday, the library will open bright and early at 8:00 AM and stay buzzing until 10:00 PM – that’s 14 straight hours for all those procrastinating project folks and the midnight meme‑curators.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2458,6 +2758,9 @@
 
 # text = If you’re more of a weekend person, don’t stress!
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2479,6 +2782,9 @@
 
 # text = On Saturday & Sunday they’ll swing the doors at 10:00 AM and close by 6:00 PM – 8 hours that’re great for a lazy Sunday browsing or catching up on chapter reading without having to squeeze into rush hour.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2529,6 +2835,9 @@
 
 # text = So get the feel!
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2540,6 +2849,9 @@
 
 # text = You’ll have loads of time this semester to dive in, whether you’re doing solo, group work, or just need a cozy quiet spot to vibe.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2579,6 +2891,9 @@
 
 # text = Bring your study mugs, your reading lights, and any extra notebooks for those brainstorming sessions.
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2603,6 +2918,9 @@
 
 # text = Let the library help keep your study grind on fleek.
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2620,6 +2938,9 @@
 
 # text = Happy studying, team! 📚✨
 # sent_id = 11
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = a2d358a6-2a8b-464c-9311-e2342e3f479e
@@ -2632,6 +2953,9 @@
 
 # text = Hey, fellow book‑worms! 📚
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 8114a871-8476-4a8a-972d-b96652a3ee3f
@@ -2645,6 +2969,9 @@
 
 # text = Just a quick heads‑up about the new library schedule so you can plan your study sessions and chill nights.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 8114a871-8476-4a8a-972d-b96652a3ee3f
@@ -2672,6 +2999,9 @@
 
 # text = From now on, the library’s open Monday through Friday from 8 a.m. to 10 p.m. – that’s a solid 14 hours of book‑time every weekday.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 8114a871-8476-4a8a-972d-b96652a3ee3f
@@ -2710,6 +3040,9 @@
 
 # text = If you’re a weekend person, no worries: it’s open Saturday and Sunday from 10 a.m. to 6 p.m.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 8114a871-8476-4a8a-972d-b96652a3ee3f
@@ -2741,6 +3074,9 @@
 
 # text = So whether you’re burning the midnight oil or just need a quiet spot for a quick read, we’ve got you covered.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 8114a871-8476-4a8a-972d-b96652a3ee3f
@@ -2774,6 +3110,9 @@
 
 # text = Feel free to drop by, grab a coffee (the café’s still open during those hours), and dive into whatever you need.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 8114a871-8476-4a8a-972d-b96652a3ee3f
@@ -2808,6 +3147,9 @@
 
 # text = And if you’re looking for a study buddy or just want to chat about the latest bestseller, the library’s the place to be.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 8114a871-8476-4a8a-972d-b96652a3ee3f
@@ -2843,6 +3185,9 @@
 
 # text = Happy reading! 🚀
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 8114a871-8476-4a8a-972d-b96652a3ee3f
@@ -2853,6 +3198,9 @@
 
 # text = Hey folks!
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = c22c073a-c9fb-4d18-8cf9-6dacb8ae6d01
@@ -2862,6 +3210,9 @@
 
 # text = 🎉 Quick heads‑up about the library’s new schedule so you can plan your study sessions or chill nights without a hitch.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = c22c073a-c9fb-4d18-8cf9-6dacb8ae6d01
@@ -2893,6 +3244,9 @@
 
 # text = Weekdays (Mon‑Fri): 8:00 am – 10:00 pm.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = c22c073a-c9fb-4d18-8cf9-6dacb8ae6d01
@@ -2910,6 +3264,9 @@
 
 # text = That’s a solid 14‑hour stretch, so whether you’re an early‑bird or a night owl, there’s plenty of time to hit the books, grab a coffee, or just hang out with friends.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = c22c073a-c9fb-4d18-8cf9-6dacb8ae6d01
@@ -2960,6 +3317,9 @@
 
 # text = Weekends (Sat‑Sun): 10:00 am – 6:00 pm.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = c22c073a-c9fb-4d18-8cf9-6dacb8ae6d01
@@ -2977,6 +3337,9 @@
 
 # text = The library opens a bit later, but you still get a good block of time to catch up on research, work on group projects, or find a quiet corner for a solo study sesh.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = c22c073a-c9fb-4d18-8cf9-6dacb8ae6d01
@@ -3021,6 +3384,9 @@
 
 # text = No more “I can’t find a quiet spot” excuses—just drop in, grab a seat, and get to it.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = c22c073a-c9fb-4d18-8cf9-6dacb8ae6d01
@@ -3054,6 +3420,9 @@
 
 # text = The library’s got all the resources you need, plus a comfy vibe that’s perfect for both focused work and casual browsing.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = c22c073a-c9fb-4d18-8cf9-6dacb8ae6d01
@@ -3087,6 +3456,9 @@
 
 # text = See you there!
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = c22c073a-c9fb-4d18-8cf9-6dacb8ae6d01
@@ -3097,6 +3469,9 @@
 
 # text = 📚✨
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = c22c073a-c9fb-4d18-8cf9-6dacb8ae6d01
@@ -3104,6 +3479,9 @@
 
 # text = Hey, book lovers! 📚
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 9c81f066-5767-4582-a8e2-af165ad15a8b
@@ -3116,6 +3494,9 @@
 
 # text = Just a quick heads‑up about our new library hours so you can plan your study sessions or chill reading time without a hitch.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 9c81f066-5767-4582-a8e2-af165ad15a8b
@@ -3147,6 +3528,9 @@
 
 # text = Monday‑Friday: 8:00 a.m. – 10:00 p.m. Saturday‑Sunday: 10:00 a.m. – 6:00 p.m.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 9c81f066-5767-4582-a8e2-af165ad15a8b
@@ -3169,6 +3553,9 @@
 
 # text = That means you’ve got the whole day on weekdays to hit the stacks, grab a coffee, or study in the quiet zone.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 9c81f066-5767-4582-a8e2-af165ad15a8b
@@ -3202,6 +3589,9 @@
 
 # text = On weekends, we’re still open early for those of you who need to catch up after a long week, but we’re closing a bit earlier to give the staff a break.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 9c81f066-5767-4582-a8e2-af165ad15a8b
@@ -3246,6 +3636,9 @@
 
 # text = Feel free to swing by anytime—whether you’re hunting for that last chapter of your thesis, need a quiet spot for a group project, or just want to browse the new arrivals.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 9c81f066-5767-4582-a8e2-af165ad15a8b
@@ -3290,6 +3683,9 @@
 
 # text = The library’s got your back 24/7 (well, almost 24/7!).
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 9c81f066-5767-4582-a8e2-af165ad15a8b
@@ -3313,6 +3709,9 @@
 
 # text = Happy reading, and see you soon! 🌟
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 9c81f066-5767-4582-a8e2-af165ad15a8b
@@ -3328,6 +3727,9 @@
 
 # text = Hey students! 🎓📚
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = 105adb03-c86a-4145-a635-47921be37ac6
@@ -3338,6 +3740,9 @@
 
 # text = Quick heads‑up: our library’s new hours are officially live, and we’re all set to help you power through your semester.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = 105adb03-c86a-4145-a635-47921be37ac6
@@ -3371,6 +3776,9 @@
 
 # text = Monday‑Friday: 8:00 am to 10:00 pm – that’s 8‑22 in the 24‑hour style.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = 105adb03-c86a-4145-a635-47921be37ac6
@@ -3396,6 +3804,9 @@
 
 # text = Saturday‑Sunday: 10:00 am to 6:00 pm – 10‑18 on the weekend.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = 105adb03-c86a-4145-a635-47921be37ac6
@@ -3416,6 +3827,9 @@
 
 # text = So whether you’re a night owl who loves a late‑night study sesh or a morning person grabbing coffee before class, the library’s got you covered.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = 105adb03-c86a-4145-a635-47921be37ac6
@@ -3453,6 +3867,9 @@
 
 # text = Feel free to drop in, grab a seat, and soak up those quiet vibes.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = 105adb03-c86a-4145-a635-47921be37ac6
@@ -3476,6 +3893,9 @@
 
 # text = And of course, the staff will be there to help with anything you need—from finding sources to figuring out how to cite a source (yes, that’s a thing).
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = 105adb03-c86a-4145-a635-47921be37ac6
@@ -3519,6 +3939,9 @@
 
 # text = See you there!
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = 105adb03-c86a-4145-a635-47921be37ac6
@@ -3529,6 +3952,9 @@
 
 # text = 🚀 #StudyTime #LibraryLife
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = 105adb03-c86a-4145-a635-47921be37ac6
@@ -3538,6 +3964,9 @@
 
 # text = 📚 Hey fam!
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = 7c776526-8305-45cd-8ed6-923ee9492a13
@@ -3548,6 +3977,9 @@
 
 # text = Just a quick heads‑up: our library’s getting a little schedule makeover that’s perfect for all the night‑owls and early‑bird scholars.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = 7c776526-8305-45cd-8ed6-923ee9492a13
@@ -3581,6 +4013,9 @@
 
 # text = Here’s the new drill:
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = 7c776526-8305-45cd-8ed6-923ee9492a13
@@ -3594,6 +4029,9 @@
 
 # text = Mon‑Fri: 8:00 am – 10:00 pm Sat‑Sun: 10:00 am – 6:00 pm
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = 7c776526-8305-45cd-8ed6-923ee9492a13
@@ -3615,6 +4053,9 @@
 
 # text = So whether you’re burning the midnight oil between classes or hunting for a quiet study spot over the weekend, you’ll still find a room to lock down and a shelf full of your favourite books waiting. 🌟
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = 7c776526-8305-45cd-8ed6-923ee9492a13
@@ -3664,6 +4105,9 @@
 
 # text = No need to be a 24‑hour hermit – 10‑pm is still late enough to cram the extra chapters without cutting into breakfast time the next day.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = 7c776526-8305-45cd-8ed6-923ee9492a13
@@ -3699,6 +4143,9 @@
 
 # text = And the weekend opening gives a sweet window for those late‑night binge‑reads (coffee shop closed, but you won’t have to, right?)
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = 7c776526-8305-45cd-8ed6-923ee9492a13
@@ -3733,6 +4180,9 @@
 
 # text = Just swing in, drop your pad on a table, and enjoy a chill vibe.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = 7c776526-8305-45cd-8ed6-923ee9492a13
@@ -3756,6 +4206,9 @@
 
 # text = The librarian’s still in the corner with the Wi‑Fi passwords, so hit us up if you need help finding something or want a study buddy.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = 7c776526-8305-45cd-8ed6-923ee9492a13
@@ -3791,6 +4244,9 @@
 
 # text = Happy reading, and catch ya in the stacks! 😄
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = 7c776526-8305-45cd-8ed6-923ee9492a13
@@ -3808,6 +4264,9 @@
 
 # text = Hey everyone!
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -3817,6 +4276,9 @@
 
 # text = Quick heads‑up on the new library schedule—now it's way more chill so you can plan your week better. 🎉
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -3848,6 +4310,9 @@
 
 # text = M-F: We’re open from 8 AM to 10 PM.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -3867,6 +4332,9 @@
 
 # text = Got an early morning paper you’re craving?
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -3883,6 +4351,9 @@
 
 # text = Hit it after your first class!
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -3896,6 +4367,9 @@
 
 # text = Need a midnight study binge?
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -3908,6 +4382,9 @@
 
 # text = We’re still here, ready to support that hustle.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -3926,6 +4403,9 @@
 
 # text = Sat‑Sun: 10 AM to 6 PM.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -3941,6 +4421,9 @@
 
 # text = Start your weekends strong (or catch some relaxed reads) during the daytime.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -3962,6 +4445,9 @@
 
 # text = Whether you’re hunting for stats data, grabbing a late snack (we have the espresso machine!), or just need a quiet corner to binge‑read or cram for finals, the doors (and laptops) are all open for you.
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -4015,6 +4501,9 @@
 
 # text = Remember, the library also hosts comfy couches, fast Wi‑Fi, and all the usual desk space for group projects or solo zen sessions.
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -4047,6 +4536,9 @@
 
 # text = Swing by when it fits your routine, no rush or dress code—just bring that fresh curiosity and maybe a favorite bookmark.
 # sent_id = 11
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -4078,6 +4570,9 @@
 
 # text = Let’s make the most of those long hours—happy studying!
 # sent_id = 12
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976
@@ -4098,6 +4593,9 @@
 
 # text = 📚✨
 # sent_id = 13
+# model = openai/gpt-oss-20b
+# language = english
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = 3d40d989-0003-435e-a637-1624686e6976

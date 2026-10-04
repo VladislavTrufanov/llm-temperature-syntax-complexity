@@ -1,5 +1,8 @@
 # text = Annonce officielle – Nouveaux horaires de la bibliothèque
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -14,6 +17,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -23,6 +29,9 @@
 
 # text = Nous avons le plaisir de vous informer que la bibliothèque universitaire adopte de nouveaux horaires afin de mieux répondre à vos besoins académiques.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -53,6 +62,9 @@
 
 # text = À partir du 1ᵉʳ mai 2026, la bibliothèque sera ouverte :
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -73,6 +85,9 @@
 
 # text = - Du lundi au vendredi, de 8 h 00 à 22 h 00.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -98,6 +113,9 @@
 
 # text = - Le samedi et le dimanche, de 10 h 00 à 18 h 00.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -120,6 +138,9 @@
 
 # text = Ces horaires ont été définis après une analyse approfondie des usages et des demandes des usagers.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -149,6 +170,9 @@
 
 # text = Ils visent à offrir un accès plus flexible aux ressources, tout en garantissant un environnement calme et propice à l’étude.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -180,6 +204,9 @@
 
 # text = Nous vous invitons à planifier vos visites en tenant compte de ces nouvelles heures.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -201,6 +228,9 @@
 
 # text = Pour toute question ou suggestion, n’hésitez pas à contacter le service d’accueil de la bibliothèque.
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -226,6 +256,9 @@
 
 # text = Nous vous remercions de votre attention et vous souhaitons une excellente utilisation des espaces et des collections.
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -254,6 +287,9 @@
 
 # text = Cordialement,
 # sent_id = 11
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -262,6 +298,9 @@
 
 # text = Le Service Bibliothécaire Université de [Nom de l’Université]
 # sent_id = 12
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = 168f8f48-016a-472c-aae6-4703558dad4f
@@ -279,6 +318,9 @@
 
 # text = Annonce officielle – Nouveaux horaires de la bibliothèque
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -293,6 +335,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -302,6 +347,9 @@
 
 # text = Nous avons le plaisir de vous informer que la bibliothèque universitaire adopte de nouveaux horaires afin de mieux répondre à vos besoins académiques.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -332,6 +380,9 @@
 
 # text = À compter du 1ᵉʳ mai 2026, les heures d’ouverture seront les suivantes :
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -355,6 +406,9 @@
 
 # text = - Du lundi au vendredi : 08 h 00 – 22 h 00
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -378,6 +432,9 @@
 
 # text = - Le samedi et le dimanche : 10 h 00 – 18 h 00
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -398,6 +455,9 @@
 
 # text = Ces horaires ont été définis après une analyse approfondie des usages et des demandes exprimées par la communauté étudiante.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -428,6 +488,9 @@
 
 # text = Ils visent à offrir un accès plus étendu aux ressources, tout en assurant un environnement calme et propice à l’étude.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -459,6 +522,9 @@
 
 # text = Nous vous remercions de votre compréhension et de votre coopération.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -476,6 +542,9 @@
 
 # text = Pour toute question ou suggestion concernant ces changements, n’hésitez pas à contacter le service des bibliothèques à l’adresse e‑mail bibliotheque@universite.edu ou au numéro +33 1 23 45 67 89.
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -516,6 +585,9 @@
 
 # text = Nous vous souhaitons de bonnes lectures et de fructueuses recherches.
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -533,6 +605,9 @@
 
 # text = Cordialement,
 # sent_id = 11
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -541,6 +616,9 @@
 
 # text = Le Service des Bibliothèques Université de [Nom de l’Université]
 # sent_id = 12
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 4a1835a6-5791-4197-9a22-13a5538c2929
@@ -561,6 +639,9 @@
 
 # text = Annonce officielle – Nouveaux horaires de la bibliothèque
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 4b850057-f0df-40a8-966a-df0ba88f22fc
@@ -575,6 +656,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 4b850057-f0df-40a8-966a-df0ba88f22fc
@@ -584,6 +668,9 @@
 
 # text = Dans le cadre de notre engagement continu à vous offrir un environnement propice à l’étude et à la recherche, la bibliothèque de l’établissement met à jour ses horaires d’ouverture.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 4b850057-f0df-40a8-966a-df0ba88f22fc
@@ -624,6 +711,9 @@
 
 # text = À partir de la prochaine semaine, la bibliothèque sera ouverte :
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 4b850057-f0df-40a8-966a-df0ba88f22fc
@@ -642,6 +732,9 @@
 
 # text = - Du lundi au vendredi, de 8h00 à 22h00
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 4b850057-f0df-40a8-966a-df0ba88f22fc
@@ -666,6 +759,9 @@
 
 # text = - Le samedi et le dimanche, de 10h00 à 18h00
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 4b850057-f0df-40a8-966a-df0ba88f22fc
@@ -687,6 +783,9 @@
 
 # text = Ces horaires ont été conçus pour maximiser votre accès aux ressources et aux espaces de travail tout en respectant les contraintes de sécurité et de gestion du campus.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 4b850057-f0df-40a8-966a-df0ba88f22fc
@@ -728,6 +827,9 @@
 
 # text = Nous vous invitons à planifier vos visites en conséquence et à profiter de ces créneaux étendus pour approfondir vos projets académiques.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 4b850057-f0df-40a8-966a-df0ba88f22fc
@@ -756,6 +858,9 @@
 
 # text = Pour toute question relative à ces horaires ou à d’autres services, n’hésitez pas à contacter le bureau de la bibliothèque.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 4b850057-f0df-40a8-966a-df0ba88f22fc
@@ -786,6 +891,9 @@
 
 # text = Nous vous remercions de votre attention et vous souhaitons d’excellentes heures de lecture et de recherche.
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 4b850057-f0df-40a8-966a-df0ba88f22fc
@@ -810,6 +918,9 @@
 
 # text = Annonce officielle – Nouveaux horaires de la bibliothèque universitaire
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = aab08c47-a163-494d-af39-ce2eef8512df
@@ -825,6 +936,9 @@
 
 # text = À l’attention de l’ensemble des étudiants, de l’ensemble du corps professoral et du personnel administratif,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = aab08c47-a163-494d-af39-ce2eef8512df
@@ -857,6 +971,9 @@
 
 # text = Nous vous informons que, dans le cadre de l’optimisation des services académiques, les horaires d’ouverture de la bibliothèque universitaire ont été modifiés à compter du 1ᵉʳ mai 2026.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = aab08c47-a163-494d-af39-ce2eef8512df
@@ -900,6 +1017,9 @@
 
 # text = Vous pourrez désormais accéder aux collections et aux espaces de travail dans les conditions suivantes :
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = aab08c47-a163-494d-af39-ce2eef8512df
@@ -926,6 +1046,9 @@
 
 # text = - Du lundi au vendredi : de 8 h 00 à 22 h 00.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = aab08c47-a163-494d-af39-ce2eef8512df
@@ -951,6 +1074,9 @@
 
 # text = - Le samedi et le dimanche : de 10 h 00 à 18 h 00.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = aab08c47-a163-494d-af39-ce2eef8512df
@@ -973,6 +1099,9 @@
 
 # text = Ces horaires ont été ajustés afin de répondre au mieux aux besoins des étudiants tout en garantissant la disponibilité des ressources pédagogiques.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = aab08c47-a163-494d-af39-ce2eef8512df
@@ -1010,6 +1139,9 @@
 
 # text = La bibliothèque continue de proposer l’accès aux bases de données en ligne, aux ateliers de recherche et au service de prêt, conformément aux politiques universitaires.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = aab08c47-a163-494d-af39-ce2eef8512df
@@ -1053,6 +1185,9 @@
 
 # text = Nous vous remercions de votre attention et vous prions d’agréer, chers étudiants, l’expression de nos salutations distinguées.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = aab08c47-a163-494d-af39-ce2eef8512df
@@ -1081,6 +1216,9 @@
 
 # text = Direction de la Bibliothèque Universitaire
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = aab08c47-a163-494d-af39-ce2eef8512df
@@ -1092,6 +1230,9 @@
 
 # text = Annoncée officielle – Nouveaux horaires de la Bibliothèque Universitaire
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 5227f113-e6ac-4cfb-aa62-83b6ec0d199d
@@ -1107,6 +1248,9 @@
 
 # text = Chers étudiants, Dans le cadre de notre engagement continu à répondre à vos besoins d’apprentissage et de recherche, nous avons ajusté les horaires de la Bibliothèque afin d’accroître votre disponibilité en temps opportun.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 5227f113-e6ac-4cfb-aa62-83b6ec0d199d
@@ -1151,6 +1295,9 @@
 
 # text = La bibliothèque sera désormais ouverte du lundi au vendredi de 8 h 00 à 22 h 00 et le samedi et dimanche de 10 h 00 à 18 h 00.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 5227f113-e6ac-4cfb-aa62-83b6ec0d199d
@@ -1192,6 +1339,9 @@
 
 # text = Ces créneaux supplémentaires permettront de mieux soutenir vos projets académiques, notamment lors des périodes de rendu des travaux, ainsi que vos activités de lecture autonome ou de groupe.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 5227f113-e6ac-4cfb-aa62-83b6ec0d199d
@@ -1233,6 +1383,9 @@
 
 # text = Le personnel de la bibliothèque sera également à votre disposition pour des conseils de recherche ou pour faciliter l’accès à nos ressources numériques et physiques.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 5227f113-e6ac-4cfb-aa62-83b6ec0d199d
@@ -1266,6 +1419,9 @@
 
 # text = Pour toute question, n’hésitez pas à contacter le Service des Bibliothèques via le portail étudiant.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 5227f113-e6ac-4cfb-aa62-83b6ec0d199d
@@ -1292,6 +1448,9 @@
 
 # text = Nous vous remercions de votre attention et vous souhaitons un bon emploi de ces horaires élargis pour optimiser votre réussite académique.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 5227f113-e6ac-4cfb-aa62-83b6ec0d199d
@@ -1320,6 +1479,9 @@
 
 # text = Cordialement, Le Service des Bibliothèques Universitaires
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 5227f113-e6ac-4cfb-aa62-83b6ec0d199d
@@ -1335,6 +1497,9 @@
 
 # text = Avis officiel à l’attention des étudiants
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 781390ad-d746-4607-9dd0-be501fbc2742
@@ -1350,6 +1515,9 @@
 
 # text = Le conseil d’administration souhaite informer la communauté étudiante que, dans le cadre d’une révision de la grille d’ouverture, la bibliothèque de l’établissement évoluera vers un nouvel horaire visant à mieux accompagner votre réussite académique.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 781390ad-d746-4607-9dd0-be501fbc2742
@@ -1397,6 +1565,9 @@
 
 # text = - Du lundi au vendredi : de 8h00 à 22h00
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 781390ad-d746-4607-9dd0-be501fbc2742
@@ -1421,6 +1592,9 @@
 
 # text = - Le samedi et dimanche : de 10h00 à 18h00
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 781390ad-d746-4607-9dd0-be501fbc2742
@@ -1441,6 +1615,9 @@
 
 # text = Ces modifications prennent effet immédiatement à partir du lundi prochaine.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 781390ad-d746-4607-9dd0-be501fbc2742
@@ -1460,6 +1637,9 @@
 
 # text = Nous vous rappelons que, dans le respect des règles de conduite en place, tout individu utilisant les services du bibliothéque devra porter des masques dans la circulation intérieure jusqu’à nouvel ordre, et se conformera à toute mesure sanitaire en vigueur.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 781390ad-d746-4607-9dd0-be501fbc2742
@@ -1515,6 +1695,9 @@
 
 # text = En collaboration avec notre équipe de ressources documentaires, nous resterons attentifs à tout besoin supplémentaire et nous vous remercions de votre vigilance ainsi que de votre engagement.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 781390ad-d746-4607-9dd0-be501fbc2742
@@ -1550,6 +1733,9 @@
 
 # text = Bonne recherche,** Le Directeur de la Bibliothèque ».
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 781390ad-d746-4607-9dd0-be501fbc2742
@@ -1567,6 +1753,9 @@
 
 # text = Annonce officielle – Nouveaux horaires de la bibliothèque
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1581,6 +1770,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1590,6 +1782,9 @@
 
 # text = Nous avons le plaisir de vous informer que la bibliothèque universitaire adopte de nouveaux horaires afin de mieux répondre à vos besoins académiques.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1620,6 +1815,9 @@
 
 # text = À partir du 1ᵉʳ mai 2026, la bibliothèque sera ouverte :
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1640,6 +1838,9 @@
 
 # text = - Du lundi au vendredi, de 8 h 00 à 22 h 00.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1665,6 +1866,9 @@
 
 # text = - Le samedi et le dimanche, de 10 h 00 à 18 h 00.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1687,6 +1891,9 @@
 
 # text = Ces horaires ont été définis après une analyse approfondie des usages et des demandes des usagers.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1716,6 +1923,9 @@
 
 # text = Ils visent à offrir un accès plus flexible aux ressources, tout en garantissant un environnement calme et propice à l’étude.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1747,6 +1957,9 @@
 
 # text = Nous vous invitons à planifier vos visites en tenant compte de ces nouvelles heures.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1768,6 +1981,9 @@
 
 # text = Pour toute question ou suggestion, n’hésitez pas à contacter le service d’accueil de la bibliothèque.
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1793,6 +2009,9 @@
 
 # text = Nous vous remercions de votre attention et vous souhaitons une excellente utilisation des espaces et des collections.
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1821,6 +2040,9 @@
 
 # text = Cordialement,
 # sent_id = 11
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1829,6 +2051,9 @@
 
 # text = Le Service Bibliothécaire Université de [Nom de l’Université]
 # sent_id = 12
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a826f735-9d93-4f20-aab0-62df765de618
@@ -1846,6 +2071,9 @@
 
 # text = Annonce officielle – Nouveaux horaires de la bibliothèque
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = b6394f27-d104-4ebe-9645-3e93f1efee86
@@ -1860,6 +2088,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = b6394f27-d104-4ebe-9645-3e93f1efee86
@@ -1869,6 +2100,9 @@
 
 # text = Nous avons le plaisir de vous informer que la bibliothèque de l’établissement adopte de nouveaux horaires afin de mieux répondre à vos besoins académiques.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = b6394f27-d104-4ebe-9645-3e93f1efee86
@@ -1901,6 +2135,9 @@
 
 # text = À compter du 1ᵉʳ mai 2026, la bibliothèque sera ouverte :
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = b6394f27-d104-4ebe-9645-3e93f1efee86
@@ -1921,6 +2158,9 @@
 
 # text = - Du lundi au vendredi de 8 h 00 à 22 h 00
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = b6394f27-d104-4ebe-9645-3e93f1efee86
@@ -1944,6 +2184,9 @@
 
 # text = - Le samedi et le dimanche de 10 h 00 à 18 h 00
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = b6394f27-d104-4ebe-9645-3e93f1efee86
@@ -1964,6 +2207,9 @@
 
 # text = Ces horaires prolongés vous permettront d’accéder aux ressources et aux espaces de travail dans des conditions optimales, que vous soyez en cours, en préparation d’examen ou en projet de recherche.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = b6394f27-d104-4ebe-9645-3e93f1efee86
@@ -2009,6 +2255,9 @@
 
 # text = Les services de prêt, de référence et d’assistance informatique resteront disponibles durant ces créneaux.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = b6394f27-d104-4ebe-9645-3e93f1efee86
@@ -2032,6 +2281,9 @@
 
 # text = Nous vous remercions de votre attention et vous invitons à profiter pleinement de ces nouvelles dispositions.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = b6394f27-d104-4ebe-9645-3e93f1efee86
@@ -2055,6 +2307,9 @@
 
 # text = Pour toute question ou suggestion, n’hésitez pas à contacter le service de la bibliothèque à l’adresse e‑mail : bibliotheque@universite.edu.
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = b6394f27-d104-4ebe-9645-3e93f1efee86
@@ -2084,6 +2339,9 @@
 
 # text = Cordialement, Le Service de la Bibliothèque Université de [Nom de l’Université]
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = b6394f27-d104-4ebe-9645-3e93f1efee86
@@ -2105,6 +2363,9 @@
 
 # text = Annonce officielle – Nouveaux horaires de la bibliothèque
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = dd7daadb-59d4-41dc-98b6-ecaa9cb0605f
@@ -2119,6 +2380,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = dd7daadb-59d4-41dc-98b6-ecaa9cb0605f
@@ -2128,6 +2392,9 @@
 
 # text = Nous vous informons que, afin de mieux répondre à vos besoins académiques, les horaires d’ouverture de la bibliothèque universitaire ont été modifiés.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = dd7daadb-59d4-41dc-98b6-ecaa9cb0605f
@@ -2160,6 +2427,9 @@
 
 # text = À compter du 1ᵉʳ mai 2026, la bibliothèque sera accessible du lundi au vendredi de 8 h 00 à 22 h 00.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = dd7daadb-59d4-41dc-98b6-ecaa9cb0605f
@@ -2196,6 +2466,9 @@
 
 # text = Les week‑finaux, elle restera ouverte du samedi au dimanche de 10 h 00 à 18 h 00.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = dd7daadb-59d4-41dc-98b6-ecaa9cb0605f
@@ -2225,6 +2498,9 @@
 
 # text = Ces horaires étendus visent à vous offrir un espace de travail et de recherche plus flexible, tout en respectant les contraintes de sécurité et de maintenance du bâtiment.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = dd7daadb-59d4-41dc-98b6-ecaa9cb0605f
@@ -2263,6 +2539,9 @@
 
 # text = Nous vous rappelons de bien vouloir respecter les règles de conduite internes et de signaler toute anomalie ou besoin supplémentaire auprès de la réception.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = dd7daadb-59d4-41dc-98b6-ecaa9cb0605f
@@ -2294,6 +2573,9 @@
 
 # text = Nous vous remercions de votre attention et vous souhaitons de bonnes heures de travail.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = dd7daadb-59d4-41dc-98b6-ecaa9cb0605f
@@ -2315,6 +2597,9 @@
 
 # text = L’équipe de la bibliothèque universitaire.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = dd7daadb-59d4-41dc-98b6-ecaa9cb0605f
@@ -2328,6 +2613,9 @@
 
 # text = Annonce officielle – Nouveaux horaires de la bibliothèque
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 827e74f4-4585-4750-8a91-2ef801540ee5
@@ -2342,6 +2630,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 827e74f4-4585-4750-8a91-2ef801540ee5
@@ -2351,6 +2642,9 @@
 
 # text = Nous avons le plaisir de vous informer de la mise à jour de l’horaire d’ouverture de la bibliothèque universitaire.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 827e74f4-4585-4750-8a91-2ef801540ee5
@@ -2379,6 +2673,9 @@
 
 # text = À compter du 1er septembre, la bibliothèque sera accessible selon le calendrier suivant :
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 827e74f4-4585-4750-8a91-2ef801540ee5
@@ -2402,6 +2699,9 @@
 
 # text = - Lundi à vendredi : 08 h – 22 h - Samedi et dimanche : 10 h – 18 h
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 827e74f4-4585-4750-8a91-2ef801540ee5
@@ -2428,6 +2728,9 @@
 
 # text = Ces modifications visent à améliorer l’accès aux ressources et à soutenir vos travaux académiques tout au long de la semaine.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 827e74f4-4585-4750-8a91-2ef801540ee5
@@ -2460,6 +2763,9 @@
 
 # text = Nous restons à votre disposition pour toute question relative aux heures d’ouverture ou aux services disponibles.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 827e74f4-4585-4750-8a91-2ef801540ee5
@@ -2488,6 +2794,9 @@
 
 # text = N’hésitez pas à contacter le personnel d’accueil ou à consulter notre site internet pour les informations complémentaires.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 827e74f4-4585-4750-8a91-2ef801540ee5
@@ -2514,6 +2823,9 @@
 
 # text = Nous vous remercions de votre attention et vous souhaitons une excellente continuation dans vos études.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 827e74f4-4585-4750-8a91-2ef801540ee5
@@ -2536,6 +2848,9 @@
 
 # text = Direction des Bibliothèques
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 827e74f4-4585-4750-8a91-2ef801540ee5
@@ -2547,6 +2862,9 @@
 
 # text = Avis officiel aux étudiants –
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = ca77375c-f1f8-42ae-90f7-2ccdb04195aa
@@ -2560,6 +2878,9 @@
 
 # text = Nouveaux horaires de la bibliothèque
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = ca77375c-f1f8-42ae-90f7-2ccdb04195aa
@@ -2571,6 +2892,9 @@
 
 # text = Chers étudiants,
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = ca77375c-f1f8-42ae-90f7-2ccdb04195aa
@@ -2580,6 +2904,9 @@
 
 # text = Dans le but d’améliorer notre service et de mieux répondre aux besoins académiques de tous, nous vous informons que la bibliothèque du campus modifie ses horaires d’ouverture.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = ca77375c-f1f8-42ae-90f7-2ccdb04195aa
@@ -2621,6 +2948,9 @@
 
 # text = À compter de l’1 er avril 2026, la bibliothèque sera ouverte du lundi au vendredi de 8 h00 à 22 h00, offrant ainsi un espace étendu pour la lecture, la recherche et les travaux de groupe.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = ca77375c-f1f8-42ae-90f7-2ccdb04195aa
@@ -2672,6 +3002,9 @@
 
 # text = Les samedi et dimanche resteront accessibles de 10 h00 à 18 h00.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = ca77375c-f1f8-42ae-90f7-2ccdb04195aa
@@ -2691,6 +3024,9 @@
 
 # text = Ces changements visent à fournir une disponibilité accrue tout en garantissant le bien‑être des utilisateurs et la sécurité de nos installations.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = ca77375c-f1f8-42ae-90f7-2ccdb04195aa
@@ -2721,6 +3057,9 @@
 
 # text = Nous restons à votre disposition pour toute question supplémentaire.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = ca77375c-f1f8-42ae-90f7-2ccdb04195aa
@@ -2737,6 +3076,9 @@
 
 # text = Merci de votre attention et de votre collaboration.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = ca77375c-f1f8-42ae-90f7-2ccdb04195aa
@@ -2752,6 +3094,9 @@
 
 # text = Direction de la Bibliothèque Campus
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = ca77375c-f1f8-42ae-90f7-2ccdb04195aa
@@ -2763,6 +3108,9 @@
 
 # text = Objet : Nouveaux horaires de la bibliothèque universitaire
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = 249adff9-0af8-4d58-aaf7-4b245b693088
@@ -2777,6 +3125,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = 249adff9-0af8-4d58-aaf7-4b245b693088
@@ -2786,6 +3137,9 @@
 
 # text = Nous vous informons que, afin d’améliorer l’accès à vos ressources pédagogiques, les heures d’ouverture de la bibliothèque ont été modifiées pour l’ensemble de l’année scolaire.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = 249adff9-0af8-4d58-aaf7-4b245b693088
@@ -2825,6 +3179,9 @@
 
 # text = - Du lundi au vendredi, la bibliothèque ouvrira ses portes de 08h00 à 22h00.
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = 249adff9-0af8-4d58-aaf7-4b245b693088
@@ -2855,6 +3212,9 @@
 
 # text = - Le samedi et le dimanche, elle restera à votre disposition de 10h00 à 18h00.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = 249adff9-0af8-4d58-aaf7-4b245b693088
@@ -2882,6 +3242,9 @@
 
 # text = Tous les espaces de lecture, de travail individuel, les stations de travail collectif et les bibliothèques numériques resteront accessibles pendant ces créneaux.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = 249adff9-0af8-4d58-aaf7-4b245b693088
@@ -2913,6 +3276,9 @@
 
 # text = La sécurité de l’environnement ainsi que les systèmes de soutien resteront fonctionnels à temps plein.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = 249adff9-0af8-4d58-aaf7-4b245b693088
@@ -2936,6 +3302,9 @@
 
 # text = Pour toute information complémentaire, vous êtes invités à contacter le service bibliothèques via l’adresse courriel prévue : bibliotheque@universite.example.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = 249adff9-0af8-4d58-aaf7-4b245b693088
@@ -2963,6 +3332,9 @@
 
 # text = Nous vous remercions de votre compréhension et de votre coopération.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = 249adff9-0af8-4d58-aaf7-4b245b693088
@@ -2980,6 +3352,9 @@
 
 # text = Respectueusement,
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = 249adff9-0af8-4d58-aaf7-4b245b693088
@@ -2988,6 +3363,9 @@
 
 # text = L’Association des Services Bibliothécaires [Nom de l’établissement]
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = 249adff9-0af8-4d58-aaf7-4b245b693088
@@ -3007,6 +3385,9 @@
 
 # text = Annonce officielle – Nouveaux horaires de la bibliothèque
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3021,6 +3402,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3030,6 +3414,9 @@
 
 # text = Nous avons le plaisir de vous informer que la bibliothèque universitaire adopte de nouveaux horaires afin de mieux répondre à vos besoins académiques.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3060,6 +3447,9 @@
 
 # text = À partir du 1ᵉʳ mai 2026, la bibliothèque sera ouverte :
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3080,6 +3470,9 @@
 
 # text = - Du lundi au vendredi, de 8 h 00 à 22 h 00.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3105,6 +3498,9 @@
 
 # text = - Le samedi et le dimanche, de 10 h 00 à 18 h 00.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3127,6 +3523,9 @@
 
 # text = Ces horaires ont été définis après une analyse approfondie des usages et des demandes des usagers.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3156,6 +3555,9 @@
 
 # text = Ils visent à offrir un accès plus flexible aux ressources, tout en garantissant un environnement calme et propice à l’étude.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3187,6 +3589,9 @@
 
 # text = Nous vous invitons à planifier vos visites en tenant compte de ces nouvelles heures.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3208,6 +3613,9 @@
 
 # text = Pour toute question ou suggestion, n’hésitez pas à contacter le service d’accueil de la bibliothèque.
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3233,6 +3641,9 @@
 
 # text = Nous vous remercions de votre attention et vous souhaitons une excellente utilisation des espaces et des collections.
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3261,6 +3672,9 @@
 
 # text = Cordialement,
 # sent_id = 11
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3269,6 +3683,9 @@
 
 # text = Le Service Bibliothécaire Université de [Nom de l’Université]
 # sent_id = 12
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 1b554243-518e-44ee-97dc-9f55d1381f56
@@ -3286,6 +3703,9 @@
 
 # text = Annonce officielle – Nouveaux horaires de la bibliothèque
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = db728169-45fd-4a78-b8dc-8fe9532d669e
@@ -3300,6 +3720,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = db728169-45fd-4a78-b8dc-8fe9532d669e
@@ -3309,6 +3732,9 @@
 
 # text = Nous avons le plaisir de vous informer que les horaires d’ouverture de la bibliothèque ont été révisés afin de mieux répondre à vos besoins académiques.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = db728169-45fd-4a78-b8dc-8fe9532d669e
@@ -3342,6 +3768,9 @@
 
 # text = À compter de la semaine prochaine, la bibliothèque sera accessible comme suit :
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = db728169-45fd-4a78-b8dc-8fe9532d669e
@@ -3362,6 +3791,9 @@
 
 # text = - Du lundi au vendredi : de 8h00 à 22h00
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = db728169-45fd-4a78-b8dc-8fe9532d669e
@@ -3386,6 +3818,9 @@
 
 # text = - Le samedi et le dimanche : de 10h00 à 18h00
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = db728169-45fd-4a78-b8dc-8fe9532d669e
@@ -3407,6 +3842,9 @@
 
 # text = Ces horaires élargis vous permettront de profiter pleinement des ressources et des espaces de travail disponibles, que ce soit pour vos recherches, vos révisions ou vos projets de groupe.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = db728169-45fd-4a78-b8dc-8fe9532d669e
@@ -3445,6 +3883,9 @@
 
 # text = Nous vous rappelons que le respect des règles de la bibliothèque (silence, utilisation des équipements, respect des espaces) reste obligatoire.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = db728169-45fd-4a78-b8dc-8fe9532d669e
@@ -3480,6 +3921,9 @@
 
 # text = Nous vous remercions de votre attention et vous souhaitons d’excellentes heures d’étude.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = db728169-45fd-4a78-b8dc-8fe9532d669e
@@ -3501,6 +3945,9 @@
 
 # text = L’équipe de la bibliothèque universitaire
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = db728169-45fd-4a78-b8dc-8fe9532d669e
@@ -3513,6 +3960,9 @@
 
 # text = Annonce officielle – Nouveaux horaires de la Bibliothèque universitaire
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 81bdebc8-aa36-414b-af46-02a24c3b0b61
@@ -3528,6 +3978,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 81bdebc8-aa36-414b-af46-02a24c3b0b61
@@ -3537,6 +3990,9 @@
 
 # text = Dans le cadre de notre engagement constant à améliorer vos conditions de travail, nous vous informons que la Bibliothèque universitaire adopte de nouveaux horaires d’ouverture.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 81bdebc8-aa36-414b-af46-02a24c3b0b61
@@ -3571,6 +4027,9 @@
 
 # text = À compter du 1ᵉʳ septembre, la bibliothèque sera accessible comme suit :
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 81bdebc8-aa36-414b-af46-02a24c3b0b61
@@ -3592,6 +4051,9 @@
 
 # text = - Du lundi au vendredi : 08h00 – 22h00
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 81bdebc8-aa36-414b-af46-02a24c3b0b61
@@ -3615,6 +4077,9 @@
 
 # text = - Le samedi et le dimanche : 10h00 – 18h00
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 81bdebc8-aa36-414b-af46-02a24c3b0b61
@@ -3635,6 +4100,9 @@
 
 # text = Ces horaires ont été définis afin de vous offrir un accès plus flexible à nos collections, nos espaces d’étude et nos services de prêt.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 81bdebc8-aa36-414b-af46-02a24c3b0b61
@@ -3668,6 +4136,9 @@
 
 # text = Nous vous invitons à planifier vos visites en tenant compte de ces nouvelles disponibilités et à nous faire part de toute suggestion ou question relative à ces changements.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 81bdebc8-aa36-414b-af46-02a24c3b0b61
@@ -3703,6 +4174,9 @@
 
 # text = Nous vous remercions de votre compréhension et de votre coopération.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 81bdebc8-aa36-414b-af46-02a24c3b0b61
@@ -3720,6 +4194,9 @@
 
 # text = Cordialement,
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 81bdebc8-aa36-414b-af46-02a24c3b0b61
@@ -3728,6 +4205,9 @@
 
 # text = Le Service des Bibliothèques Université de [Nom]
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 81bdebc8-aa36-414b-af46-02a24c3b0b61
@@ -3745,6 +4225,9 @@
 
 # text = Annonce officielle – Nouveaux horaires de la bibliothèque
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 488fdd5e-0efd-46e4-9db9-13c390faa316
@@ -3759,6 +4242,9 @@
 
 # text = Chers étudiants, Dans le cadre de notre engagement permanent à soutenir votre parcours universitaire, nous vous informons des nouveaux horaires d’ouverture de la bibliothèque.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 488fdd5e-0efd-46e4-9db9-13c390faa316
@@ -3795,6 +4281,9 @@
 
 # text = À partir de la semaine prochaine, les heures d’accès seront les suivantes :
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 488fdd5e-0efd-46e4-9db9-13c390faa316
@@ -3816,6 +4305,9 @@
 
 # text = - Du lundi au vendredi : 08 h 00 – 22 h 00
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 488fdd5e-0efd-46e4-9db9-13c390faa316
@@ -3839,6 +4331,9 @@
 
 # text = - Le samedi et le dimanche : 10 h 00 – 18 h 00
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 488fdd5e-0efd-46e4-9db9-13c390faa316
@@ -3859,6 +4354,9 @@
 
 # text = Ces créneaux ont été établis afin de vous offrir une flexibilité accrue pour vos travaux académiques, vos projets de recherche et vos moments de lecture.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 488fdd5e-0efd-46e4-9db9-13c390faa316
@@ -3892,6 +4390,9 @@
 
 # text = La bibliothèque reste entièrement équipée et les services habituels (prêts, stations de travail, accès numérique) seront maintenus dans les mêmes conditions.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 488fdd5e-0efd-46e4-9db9-13c390faa316
@@ -3924,6 +4425,9 @@
 
 # text = Nous vous invitons à consulter le planning détaillé disponible sur le site de la bibliothèque et à nous faire part, par courrier électronique ou via notre formulaire de contact, de toute suggestion qui contribuerait à améliorer votre expérience.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 488fdd5e-0efd-46e4-9db9-13c390faa316
@@ -3971,6 +4475,9 @@
 
 # text = Nous vous remercions de votre coopération et vous souhaitons de fructueux moments de lecture.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 488fdd5e-0efd-46e4-9db9-13c390faa316
@@ -3992,6 +4499,9 @@
 
 # text = Cordialement, La Direction de la Bibliothèque Universitaire
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 488fdd5e-0efd-46e4-9db9-13c390faa316
@@ -4006,6 +4516,9 @@
 
 # text = Annonce Officielle – Nouveaux Horaires de la Bibliothèque Universitaire
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 6a9a656a-a581-4f23-9711-823bcf2986d8
@@ -4021,6 +4534,9 @@
 
 # text = À l’attention de l’ensemble des étudiants, du personnel et de la communauté universitaire :
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 6a9a656a-a581-4f23-9711-823bcf2986d8
@@ -4048,6 +4564,9 @@
 
 # text = Nous sommes heureux de vous informer que la Bibliothèque universitaire adopte désormais de nouveaux horaires de fonctionnement, afin de mieux répondre aux besoins de recherche et d’étude de chacun d’entre vous.
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 6a9a656a-a581-4f23-9711-823bcf2986d8
@@ -4091,6 +4610,9 @@
 
 # text = À compter du 1ᵉʳ mai 2026, la bibliothèque sera ouverte les jours suivants :
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 6a9a656a-a581-4f23-9711-823bcf2986d8
@@ -4114,6 +4636,9 @@
 
 # text = - Lundi au vendredi : 8h 00 – 22h 00
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 6a9a656a-a581-4f23-9711-823bcf2986d8
@@ -4134,6 +4659,9 @@
 
 # text = - Samedi et dimanche : 10h 00 – 18h 00
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 6a9a656a-a581-4f23-9711-823bcf2986d8
@@ -4152,6 +4680,9 @@
 
 # text = Ces créneaux étendus vous permettent d’accéder à notre collection physique et numérique ainsi qu’à nos services d’assistance, même pendant la semaine.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 6a9a656a-a581-4f23-9711-823bcf2986d8
@@ -4184,6 +4715,9 @@
 
 # text = Nous vous encourageons à planifier vos visites en fonction de ces horaires et à consulter les ressources en ligne qui restent disponibles 24h/24 via la plateforme bibliothécaire.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 6a9a656a-a581-4f23-9711-823bcf2986d8
@@ -4221,6 +4755,9 @@
 
 # text = Pour toute question ou suggestion relative aux horaires ou aux services, n’hésitez pas à contacter l’équipe administrative de la Bibliothèque à l’adresse : bibliothèque@univ-xx.fr ou par téléphone au (+33) 1 23 45 67 89.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 6a9a656a-a581-4f23-9711-823bcf2986d8
@@ -4270,6 +4807,9 @@
 
 # text = Nous vous remercions de votre attention et vous souhaitons de fructueuses séances d’étude.
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 6a9a656a-a581-4f23-9711-823bcf2986d8
@@ -4291,6 +4831,9 @@
 
 # text = Le Service Bibliothèque
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 6a9a656a-a581-4f23-9711-823bcf2986d8
@@ -4300,6 +4843,9 @@
 
 # text = À l’attention des étudiants de l’établissement
 # sent_id = 0
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 4d95ad21-5a77-414e-84b0-4c36159940b4
@@ -4316,6 +4862,9 @@
 
 # text = Chers étudiants, nous avons le plaisir de vous informer que le service de la bibliothèque poursuit son évolution afin de mieux vous accompagner dans vos recherches et vos travaux académiques.
 # sent_id = 1
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 4d95ad21-5a77-414e-84b0-4c36159940b4
@@ -4354,6 +4903,9 @@
 
 # text = À compter d’aujourd’hui, la Bibliothèque sera ouverte à les heures suivantes :
 # sent_id = 2
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 4d95ad21-5a77-414e-84b0-4c36159940b4
@@ -4374,6 +4926,9 @@
 
 # text = - Du lundi au vendredi : 08 h 00 – 22 h 00 ;
 # sent_id = 3
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 4d95ad21-5a77-414e-84b0-4c36159940b4
@@ -4398,6 +4953,9 @@
 
 # text = - Le samedi et le dimanche : 10 h 00 – 18 h 00.
 # sent_id = 4
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 4d95ad21-5a77-414e-84b0-4c36159940b4
@@ -4419,6 +4977,9 @@
 
 # text = Ces nouveaux horaires ont été soigneusement déterminés pour garantir une disponibilité optimale de nos salles de lecture, de nos ressources en ligne ainsi que de notre personnel d’accompagnement.
 # sent_id = 5
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 4d95ad21-5a77-414e-84b0-4c36159940b4
@@ -4456,6 +5017,9 @@
 
 # text = Ils seront ainsi un espace d’étude renforcé pour vous.
 # sent_id = 6
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 4d95ad21-5a77-414e-84b0-4c36159940b4
@@ -4473,6 +5037,9 @@
 
 # text = Pour toute question relative à l’accueil, aux emprunts ou à l’utilisation de nos installations, n’hésitez pas à consulter l’application ou le site web dédié de la bibliothèque.
 # sent_id = 7
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 4d95ad21-5a77-414e-84b0-4c36159940b4
@@ -4515,6 +5082,9 @@
 
 # text = Nous vous remercions par avance de bien vouloir vous organiser en fonction de ces plages horaires.
 # sent_id = 8
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 4d95ad21-5a77-414e-84b0-4c36159940b4
@@ -4538,6 +5108,9 @@
 
 # text = Ensemble, continuons d’enrichir votre parcours universitaire dans un cadre respectueux et stimulant.
 # sent_id = 9
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 4d95ad21-5a77-414e-84b0-4c36159940b4
@@ -4559,6 +5132,9 @@
 
 # text = Bien cordialement, Le service de la Bibliothèque académique.
 # sent_id = 10
+# model = openai/gpt-oss-20b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 4d95ad21-5a77-414e-84b0-4c36159940b4

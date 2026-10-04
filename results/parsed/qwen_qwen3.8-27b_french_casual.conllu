@@ -1,5 +1,8 @@
 # text = Salut la team !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -10,6 +13,9 @@
 
 # text = 👋
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -17,6 +23,9 @@
 
 # text = Petit point rapide sur les nouveaux horaires de la bib, parce que oui, ça change un peu le game.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -45,6 +54,9 @@
 
 # text = Du lundi au vendredi, on est là pour vous accueillir de 8h à 22h.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -73,6 +85,9 @@
 
 # text = C’est parfait pour ceux qui aiment bosser tôt le matin ou qui ont besoin de finir leurs révisions tard le soir sans stresser.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -104,6 +119,9 @@
 
 # text = Le week-end, c’est un peu plus chill : on ouvre à 10h et on ferme à 18h.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -132,6 +150,9 @@
 
 # text = Donc si vous comptiez faire une session marathon le dimanche soir, c’est raté, mais vous avez largement le temps de vous poser, de lire ou de réviser tranquillement.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -171,6 +192,9 @@
 
 # text = L’idée, c’est de s’adapter à votre rythme.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -189,6 +213,9 @@
 
 # text = Que vous soyez du genre lève-tôt ou noctambule, il y a toujours un créneau qui vous va.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -216,6 +243,9 @@
 
 # text = N’hésitez pas à venir nous voir, on est là pour vous aider à trouver votre place (et votre café, évidemment ☕).
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -249,6 +279,9 @@
 
 # text = Bonne semaine et bon courage pour les examens !
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -264,6 +297,9 @@
 
 # text = On se voit là-bas.
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -275,6 +311,9 @@
 
 # text = 📚✨
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 1
 # record_id = 51ba1e03-c5dd-433d-a0db-01b07c9695d9
@@ -282,6 +321,9 @@
 
 # text = Salut la team !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -292,6 +334,9 @@
 
 # text = 📚
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -299,6 +344,9 @@
 
 # text = Petite mise à jour express pour tous ceux qui aiment (ou doivent) bosser à la bib.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -324,6 +372,9 @@
 
 # text = Les horaires changent un peu, mais franchement, c’est plutôt cool.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -344,6 +395,9 @@
 
 # text = Du lundi au vendredi, on est là pour vous de 8h à 22h.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -371,6 +425,9 @@
 
 # text = Oui, vous avez bien lu : jusqu’à 22h !
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -389,6 +446,9 @@
 
 # text = Parfait pour ceux qui ont besoin de finir leurs devoirs de nuit ou qui préfèrent étudier quand le campus est enfin calme.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -418,6 +478,9 @@
 
 # text = Plus besoin de courir pour rentrer avant la fermeture, vous pouvez vraiment vous poser et bosser à votre rythme.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -445,6 +508,9 @@
 
 # text = Le week-end, c’est un peu plus chill : on ouvre à 10h et on ferme à 18h.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -473,6 +539,9 @@
 
 # text = Idéal pour rattraper votre retard sur le canapé…
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -488,6 +557,9 @@
 
 # text = euh, à la table d’étude !
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -502,6 +574,9 @@
 
 # text = Bref, que vous soyez du genre lève-tôt ou noctambule, il y a toujours un créneau qui vous va.
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -529,6 +604,9 @@
 
 # text = N’hésitez pas à venir nous voir, on est là pour vous aider à survivre à cette année scolaire.
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -556,6 +634,9 @@
 
 # text = Bon courage pour vos révisions, on se voit là-bas !
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -573,6 +654,9 @@
 
 # text = 📖✨
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 1
 # record_id = 99ee5d8a-6362-4c6d-823a-f96ae264a4de
@@ -580,6 +664,9 @@
 
 # text = Salut la team !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -590,6 +677,9 @@
 
 # text = 📚
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -597,6 +687,9 @@
 
 # text = Petite update super importante pour tous ceux qui, comme moi, font tourner la tête avec leurs cafés et leurs dossiers pile-poil avant les examens.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -630,6 +723,9 @@
 
 # text = La bib a changé ses horaires, et préparez-vous, c’est carrément plus confortable !
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -653,6 +749,9 @@
 
 # text = Du lundi au vendredi, on peut lâcher tout le monde et se poser de 8h à 22h.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -684,6 +783,9 @@
 
 # text = Oui, vous avez bien lu : jusqu’à 22h !
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -702,6 +804,9 @@
 
 # text = Parfait pour les noctambules qui bossent la nuit ou ceux qui veulent juste éviter les files d’attente du soir.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -731,6 +836,9 @@
 
 # text = Le week-end, c’est plus chill mais toujours pratique : ouvert de 10h à 18h, le samedi et le dimanche.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -762,6 +870,9 @@
 
 # text = Du coup, plus d’excuse pour rater une deadline ou pour zapper sur votre portable au lieu de bosser.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -793,6 +904,9 @@
 
 # text = On a plus que jamais le temps de tout digérer.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -810,6 +924,9 @@
 
 # text = Prenez vos casques, votre énergie, et poussez la porte.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -828,6 +945,9 @@
 
 # text = Ce qui est bien avec ces nouveaux horaires, c’est qu’on peut caler nos sessions de travail mieux, sans stresser.
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -858,6 +978,9 @@
 
 # text = Profitez-en pour découvrir d’autres espaces de la bib, ils sont top.
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -879,6 +1002,9 @@
 
 # text = Bonne journée et bonne révision !
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -891,6 +1017,9 @@
 
 # text = On se croise là-bas.
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -902,6 +1031,9 @@
 
 # text = ☕📖
 # sent_id = 15
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 1
 # record_id = 796a27ed-1dc9-4c70-8727-437a30c53b14
@@ -909,6 +1041,9 @@
 
 # text = Salut la team !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -919,6 +1054,9 @@
 
 # text = 📚
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -926,6 +1064,9 @@
 
 # text = Petite comm’ rapide mais importante avant que je m’embête trop : les horaires de la biblio ont un peu bougé.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -954,6 +1095,9 @@
 
 # text = Pas de panique, on reste là pour vous soutenir dans cette rigolade d’appel (ou d’exams, soyons honnête).
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -984,6 +1128,9 @@
 
 # text = Le dimanche passe de 9h à 11h, on redonne 1h aux cours.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -1009,6 +1156,9 @@
 
 # text = Plus sérieusement, et les week-ends c’est 9h-11h.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -1026,6 +1176,9 @@
 
 # text = Du lundi au vendredi, on ouvre tôt, 8h à 22h.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -1051,6 +1204,9 @@
 
 # text = Bon, on sait que pour les rois de la nuit, 22h, c’est tôt, non?
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -1078,6 +1234,9 @@
 
 # text = Mais pas grave, vous avez encore la majorité du jour pour bosser tranquillement.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -1101,6 +1260,9 @@
 
 # text = Le petit conseil en plus : si tu veux un slot sécurisé, si tu veux écrire ce mémoire sans être distrait, va-y comme un malade, c’est comme ça qu’une ville se déplace.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -1145,6 +1307,9 @@
 
 # text = Pour montrer ta gueule utile, on est là de 8h à la soirée.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -1167,6 +1332,9 @@
 
 # text = Mais si tu écrives sur la plage ou ailleurs, on est aussi actif.
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -1188,6 +1356,9 @@
 
 # text = C’est pas une obsession, mais je dis juste ça vu que des fois tu arrives à minuit et il n’y a plus de têtes de créables pour toi à copier.
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -1228,6 +1399,9 @@
 
 # text = Du coup, à jeudi ou en ce moment vers un plus beau mois.
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -1251,6 +1425,9 @@
 
 # text = Bisous la famille du parc.
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 1
 # record_id = 8fcc5dce-d2c1-4edb-8565-e4da991c48f3
@@ -1265,6 +1442,9 @@
 
 # text = Salut la team !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1275,6 +1455,9 @@
 
 # text = 📚
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1282,6 +1465,9 @@
 
 # text = Coud sur vous ?
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1292,6 +1478,9 @@
 
 # text = Pss, j’m’en excuse tous ça pour le “attention pour nouveau horaires au cinéc !”?
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1320,6 +1509,9 @@
 
 # text = La bib a capoté un bled pour les week-end surtout à la folie.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1340,6 +1532,9 @@
 
 # text = Ici, il tombe sur 7-8 mais euh, capables éssé très difficile ce sioncé ?
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1362,6 +1557,9 @@
 
 # text = Att yéka m’nouveauté hor : c’est un apres midi avec de d’une bibliothèque moderne 1ère bonne si on va pas sur le temps, si vraiment jolai eplaisir- t’chauffes plus tard toute nouvelle table :).
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1409,6 +1607,9 @@
 
 # text = La 1re une café gratuit où où, ce ça maintenant hais , jamais quod.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1431,6 +1632,9 @@
 
 # text = Le dérange fous des 9 heitres le matin depuis caresse , mais ça “chill fait ne, voir aussi en bibliothèque centre 8h tous les nous la semaine hein, du lun au Ven plus facile un une (87:2, déjà tout ceux une besoin le temps que les ours et tout - rien dont par la lib.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1503,6 +1707,9 @@
 
 # text = du sas comme - y’ava déjà toute chose 7o:2 ce mois , qui nous t‘ 4 -
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1529,6 +1736,9 @@
 
 # text = Je confirme ce dail, aujourd’hui 5: et j ‘plus vieux a-ti-e... les tracent qui le ou nte on’teur si eeu dont toutes dans mon des étudiants à propos, voilà + les horaires de B : 1.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1580,6 +1790,9 @@
 
 # text = pour une première version donc juste info tout moment aux heures ou dange a-bis tout soit ou déjà ton tout tout de bien ... jolain e tu ve à du temps dont moment pour no du peut on ? 6: : donc ce semaine ça , on nés
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1638,6 +1851,9 @@
 
 # text = Attardous
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1645,6 +1861,9 @@
 
 # text = - de 17 ?e ?
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 1
 # record_id = c0a08bc0-4fe3-4675-8330-2c5ef2fbf125
@@ -1656,6 +1875,9 @@
 
 # text = Salut la team !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1666,6 +1888,9 @@
 
 # text = 😎
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1673,6 +1898,9 @@
 
 # text = Ravique z’on se prenne two minutes voor vous donne the small new library schedule!
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1695,6 +1923,9 @@
 
 # text = Prun a, gros cou ?
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1707,6 +1938,9 @@
 
 # text = (c’était pour rester cohérent à la question : je confirme)…
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1727,6 +1961,9 @@
 
 # text = Hmm, un retour à cette demande exact ou un “peu récré après 1%”;
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1751,6 +1988,9 @@
 
 # text = chaque?
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1759,6 +1999,9 @@
 
 # text = non re; :4 %%.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1771,6 +2014,9 @@
 
 # text = Je les adapte c ce nouvel arrangement?
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1785,6 +2031,9 @@
 
 # text = les données correct :
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1795,6 +2044,9 @@
 
 # text = Réadaptant mes instructions non sans, étant il vous fournien mon premier plan, puis, de mon question s avec voial e tu peux écrire = message final si c ;
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1833,6 +2085,9 @@
 
 # text = bien le rest un long question …
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1846,6 +2101,9 @@
 
 # text = il suffit :
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1855,6 +2113,9 @@
 
 # text = Je respecte!
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1864,6 +2125,9 @@
 
 # text = vous par pas que vos new règles incluez besoin - sans jamais de vos contraintes présentes et chaque contexte pas, le plus loin démantèle le style unique d’un public correct d aux ton final produit.
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1910,6 +2174,9 @@
 
 # text = Mais je négl
 # sent_id = 15
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1919,6 +2186,9 @@
 
 # text = C’est raté !
 # sent_id = 16
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1929,6 +2199,9 @@
 
 # text = Retour ?
 # sent_id = 17
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1937,6 +2210,9 @@
 
 # text = avec moi ne pensez pa que ai des limitations orce …
 # sent_id = 18
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1954,6 +2230,9 @@
 
 # text = est okay en vous fournissant strictements : texte brut fourni demandant mais pas du méonci .
 # sent_id = 19
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1978,6 +2257,9 @@
 
 # text = *
 # sent_id = 20
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -1985,6 +2267,9 @@
 
 # text = (Remarque dans lecture de la voix; ai mis stop puis ce problème l’examiner)*)
 # sent_id = 21
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -2010,6 +2295,9 @@
 
 # text = alors voill vous:
 # sent_id = 22
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -2020,6 +2308,9 @@
 
 # text = Si j’ai devinque est …
 # sent_id = 23
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -2032,6 +2323,9 @@
 
 # text = ayes et oui ai peux s .
 # sent_id = 24
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -2045,6 +2339,9 @@
 
 # text = Votre moi demand a = on usez simplement il dis mes nouvelles plus recent reglon avec tous qui ont pass; / if i’ s .
 # sent_id = 25
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -2077,6 +2374,9 @@
 
 # text = Que je suis redev du.
 # sent_id = 26
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -2089,6 +2389,9 @@
 
 # text = mon text va doyou ce très good .
 # sent_id = 27
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -2103,6 +2406,9 @@
 
 # text = De l = I make not to feel comme v des exige le meut très le exact way : The plan: give every detail we the that le question
 # sent_id = 28
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -2139,6 +2445,9 @@
 
 # text = **Ma que my my question s e v que bien?* no but i want s – comme les jours
 # sent_id = 29
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 1
 # record_id = b7e8e27d-ab34-4a25-9514-894f937e46db
@@ -2165,6 +2474,9 @@
 
 # text = Salut la team !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2175,6 +2487,9 @@
 
 # text = 👋
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2182,6 +2497,9 @@
 
 # text = Petit point rapide sur les nouveaux horaires de la bib, parce que oui, ça change un peu le game.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2210,6 +2528,9 @@
 
 # text = Du lundi au vendredi, on est là pour vous accueillir de 8h à 22h.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2238,6 +2559,9 @@
 
 # text = C’est parfait pour ceux qui aiment bosser tôt le matin ou qui ont besoin de finir leurs révisions tard le soir sans stresser.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2269,6 +2593,9 @@
 
 # text = Le week-end, c’est un peu plus chill : on ouvre à 10h et on ferme à 18h.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2297,6 +2624,9 @@
 
 # text = Donc si vous comptiez faire une session marathon le dimanche soir, c’est raté, mais vous avez largement le temps de vous poser, de lire ou de réviser tranquillement.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2336,6 +2666,9 @@
 
 # text = L’idée, c’est de s’adapter à votre rythme.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2354,6 +2687,9 @@
 
 # text = Que vous soyez du genre lève-tôt ou noctambule, il y a toujours un créneau qui vous va.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2381,6 +2717,9 @@
 
 # text = N’hésitez pas à venir nous voir, on est là pour vous aider à trouver votre place (et votre café, évidemment ☕).
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2414,6 +2753,9 @@
 
 # text = Bonne semaine et bon courage pour les examens !
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2429,6 +2771,9 @@
 
 # text = On se voit là-bas.
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2440,6 +2785,9 @@
 
 # text = 📚✨
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 2
 # record_id = c65dcbf2-0cb1-48be-8974-1cb676f24f9d
@@ -2447,6 +2795,9 @@
 
 # text = Salut la team !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2457,6 +2808,9 @@
 
 # text = 👋
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2464,6 +2818,9 @@
 
 # text = Petit point rapide sur la bib, parce que les horaires ont bougé et on veut pas que vous vous preniez une claque en arrivant devant des portes fermées.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2500,6 +2857,9 @@
 
 # text = C’est simple : du lundi au vendredi, on est là pour vous de 8h à 22h.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2531,6 +2891,9 @@
 
 # text = Oui, vous avez bien lu, jusqu’à 22h !
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2549,6 +2912,9 @@
 
 # text = Parfait pour ceux qui bossent tard ou qui ont besoin d’un coin calme pour finir leurs devoirs sans se faire harceler par les voisins.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2581,6 +2947,9 @@
 
 # text = 📚
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2588,6 +2957,9 @@
 
 # text = Le week-end, c’est un peu plus chill : on ouvre à 10h et on ferme à 18h.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2616,6 +2988,9 @@
 
 # text = Idéal pour rattraper votre retard sur le canapé avant de repartir en mode studieux.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2637,6 +3012,9 @@
 
 # text = Bref, plus d’excuses pour ne pas venir.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2653,6 +3031,9 @@
 
 # text = Que ce soit pour réviser, travailler sur un projet ou juste pour éviter les regards de votre coloc qui veut la télé, la bib est votre alliée.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2689,6 +3070,9 @@
 
 # text = N’oubliez pas de prendre votre carte étudiante, même si on vous connaît par cœur.
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2712,6 +3096,9 @@
 
 # text = 😎
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2719,6 +3106,9 @@
 
 # text = On se voit là-bas, ne tardez pas !
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2734,6 +3124,9 @@
 
 # text = Gros bisous et bonne chance pour les partiels !
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2749,6 +3142,9 @@
 
 # text = 🎓✨
 # sent_id = 15
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 2
 # record_id = ed35f98c-1f2d-4f86-ba87-5f46ca856c33
@@ -2756,6 +3152,9 @@
 
 # text = Yo les futurs diplômés !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -2767,6 +3166,9 @@
 
 # text = 👋
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -2774,6 +3176,9 @@
 
 # text = Petit update super utile pour votre survie au quotidien : les horaires de la bib ont changé, et honnêtement, c’est carrément du luxe maintenant.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -2812,6 +3217,9 @@
 
 # text = 📚
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -2819,6 +3227,9 @@
 
 # text = On est ouverts du lundi au vendredi, de 8h à 22h.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -2844,6 +3255,9 @@
 
 # text = Oui, vous avez bien lu : vous pouvez rester jusqu’à nuit tombée pour cramer vos révisions sans qu’on vous chasse.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -2874,6 +3288,9 @@
 
 # text = Fini le stress de fermer ses bouquins à 18h en pleine inspiration.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -2894,6 +3311,9 @@
 
 # text = Le week-end, on est là aussi !
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -2908,6 +3328,9 @@
 
 # text = De 10h à 18h, samedi et dimanche.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -2925,6 +3348,9 @@
 
 # text = Parfait pour ceux qui n’ont que le dimanche soir pour rattraper leur retard ou ceux qui veulent juste trouver un coin tranquille pour plancher sans se presser.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -2960,6 +3386,9 @@
 
 # text = Bref, venez quand vous voulez, on est là pour vous aider à boucler vos mémos, masters et tout le reste.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -2990,6 +3419,9 @@
 
 # text = N’oubliez pas votre carte étudiante et votre café préféré.
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -3007,6 +3439,9 @@
 
 # text = ☕️
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -3014,6 +3449,9 @@
 
 # text = À très vite entre les étagères !
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -3027,6 +3465,9 @@
 
 # text = Bisous et bonne chance pour les partiels.
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -3041,6 +3482,9 @@
 
 # text = 💪📖
 # sent_id = 15
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 2
 # record_id = 8db5fa24-6d61-4103-a0b9-be1c291e8fe9
@@ -3048,6 +3492,9 @@
 
 # text = Coucou la team !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3058,6 +3505,9 @@
 
 # text = 📚 Allez, on siffle une petite coupure parce que c’est le changement d’horaires à la bib, et faut pas mourir de ne l’avoir pas su, méh ?
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3097,6 +3547,9 @@
 
 # text = Du lundi au vendredi, vous pouvez débarquer tôt (ou hyper tôt 😴) dès 8h.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3126,6 +3579,9 @@
 
 # text = Foncez réviser votre épreuve mémoire ou juste bosser tranquillement.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3142,6 +3598,9 @@
 
 # text = L’appli, c’est jusqu’à 22h, parfait pour solder les trucs importants dans la quiétude du soir.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3172,6 +3631,9 @@
 
 # text = Le week-end ?
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3181,6 +3643,9 @@
 
 # text = Pas de panique, on est là pour vous, mais en version détente : ouverte de 10h à 18h.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3210,6 +3675,9 @@
 
 # text = Idéal pour un brunch + un petit coup de crayon ou aller titiner un coup pendant la pause déj’, sans stress.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3239,6 +3707,9 @@
 
 # text = Au total, c’est presque 72h d’ouverture par semaine, ou plutôt ~88h !
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3265,6 +3736,9 @@
 
 # text = Profitez en, la café-thèque est toujours à vous, vos chaises favorites, et le Wi-Fi sans lag (normalement 💻).
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3295,6 +3769,9 @@
 
 # text = Profitez-en, bisous et à tout’à vite entre les rayons !
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3313,6 +3790,9 @@
 
 # text = Dites pas qu’on vous l’a dit, aïe ;
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3330,6 +3810,9 @@
 
 # text = si un cours est dans 10 min, filer !
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3346,6 +3829,9 @@
 
 # text = Il vous faudra 5 min pour choisir votre café et 5 min pour s’installer.
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3368,6 +3854,9 @@
 
 # text = C’est parfait !
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 2
 # record_id = c2c4f6f6-0df1-4463-86d6-3c743b0f7c3c
@@ -3378,6 +3867,9 @@
 
 # text = Mdrz les mecs, une bosse et pour vos étoiles !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3395,6 +3887,9 @@
 
 # text = 👋️❄️
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3403,6 +3898,9 @@
 
 # text = Ou plus exactement……
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3413,6 +3911,9 @@
 
 # text = Je sais, vous avez tous le même profil Insta poubelle, aucun fil rouge dans tout pour transformer le hall et l'hobby des campus………
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3448,6 +3949,9 @@
 
 # text = A chaque réunion entre plusieurs (entendez) (me c'est « gros crevé ), chacun imagine bien ou s’autodérive au (nom des places pour finir seul un groupe : la bibliothèce qui cravate entre de semaine ?
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3500,6 +4004,9 @@
 
 # text = ❎ NOBODY répond ni analyse à toutes vos attentes ce message !
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3518,6 +4025,9 @@
 
 # text = …………… .
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3527,6 +4037,9 @@
 
 # text = Vous tenez les (5+5)) ???
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3542,6 +4055,9 @@
 
 # text = LARGUE ÉTUDES ...!!!! 😂🍀.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3553,6 +4069,9 @@
 
 # text = Vous avez trop bonne trop un bon + (im ) sans cour plus + [X x [les] on] …………………………………- vous on peut dimer ou dans rere on dort aussi ?!
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3595,6 +4114,9 @@
 
 # text = 🎺!!!!!!!! ✅ N'a été rien faire et ou zeste ? … [X ] …!!!! NO PAS GRAND !
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3623,6 +4145,9 @@
 
 # text = 😘 ÉTUDIANT ZAIN !!
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3634,6 +4159,9 @@
 
 # text = #HALLWILAYAJUIN
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3642,6 +4170,9 @@
 
 # text = Ok so stop jdingez honte…
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3654,6 +4185,9 @@
 
 # text = A moins voila .
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3664,6 +4198,9 @@
 
 # text = Nouveau schéma en effet *Ce nétait sure depuis hooop, et voilà !!!🎹* _________________________________________
 # sent_id = 15
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3685,6 +4222,9 @@
 
 # text = [C'est clair on pourra se …!!!!] *Heuu en somme : 🗓 Lun-Ven : (666h/82) jusqu'a
 # sent_id = 16
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3715,6 +4255,9 @@
 
 # text = 🗓 Samedi- Dimanche* =) 🗃 "OPENING"🔥🏆🏆🔶✅NO PROBLEME ✍️ "ME 🎼* .
 # sent_id = 17
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3739,6 +4282,9 @@
 
 # text = NED 'AL D'MAN ☨ 🔑✅✨ _________
 # sent_id = 18
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3752,6 +4298,9 @@
 
 # text = ✤**
 # sent_id = 19
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3759,6 +4308,9 @@
 
 # text = On est fier plus nos crépinettes !
 # sent_id = 20
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 2
 # record_id = 29edf100-dcda-4483-8967-b60c4c35e0fb
@@ -3772,6 +4324,9 @@
 
 # text = Top, tiens !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3782,6 +4337,9 @@
 
 # text = ☕️ Est-ce que la lecture numérique t’est un moteur utile…
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3802,6 +4360,9 @@
 
 # text = enfin wait !
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3811,6 +4372,9 @@
 
 # text = Le numéro du rétro du musée d’Orsay vous saitera-t-il ?
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3833,6 +4397,9 @@
 
 # text = Bref, parlons cours plan-santun l'aspect intégrale les bouquins avec à zote belle bande boucles qui sent boulin…
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3859,6 +4426,9 @@
 
 # text = Si petitement avec coursonnat ;
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3870,6 +4440,9 @@
 
 # text = sinon serein la page…
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3881,6 +4454,9 @@
 
 # text = Sotaxiont zute (bon bon mais les jeux il saurat bouillonnées de longte !) : oui me quête te cours eurent vété l‘espérance auz huer euz !
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3916,6 +4492,9 @@
 
 # text = Attendez j'affreimeur : Hello team!
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3929,6 +4508,9 @@
 
 # text = Ouvrage ?
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3937,6 +4519,9 @@
 
 # text = Non c**nais ce qu'i faiht est : voila / qui toi lisne / il avait donc réveigne…
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3962,6 +4547,9 @@
 
 # text = non que la légence aux douner est aussi maunot se te que…
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -3983,6 +4571,9 @@
 
 # text = (que voir encore sovin il tu est fexieles en aumnes) **
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -4002,6 +4593,9 @@
 
 # text = Au serieuz haaan alors "salut mouicelles & bonnes rénos ; ) même un coup tout mou !
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -4028,6 +4622,9 @@
 
 # text = Alors meitains chez toi pas que il pume que n a nain ça (aut soit coquet i voisso je cours les petits mots le queu mais ces gens ne cout ça hoi) en ficht mais ou je te dis, juste ces des choses que te cours ces mottes que les husses ces ces…
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 2
 # record_id = 78a4d4f7-d278-4867-9a22-4362d542925b
@@ -4093,6 +4690,9 @@
 
 # text = Salut la team !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4103,6 +4703,9 @@
 
 # text = 👋
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4110,6 +4713,9 @@
 
 # text = Petit point rapide sur les nouveaux horaires de la bib, parce que oui, ça change un peu le game.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4138,6 +4744,9 @@
 
 # text = Du lundi au vendredi, on est là pour vous accueillir de 8h à 22h.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4166,6 +4775,9 @@
 
 # text = C’est parfait pour ceux qui aiment bosser tôt le matin ou qui ont besoin de finir leurs révisions tard le soir sans stresser.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4197,6 +4809,9 @@
 
 # text = Le week-end, c’est un peu plus chill : on ouvre à 10h et on ferme à 18h.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4225,6 +4840,9 @@
 
 # text = Donc si vous comptiez faire une session marathon le dimanche soir, c’est raté, mais vous avez largement le temps de vous poser, de lire ou de réviser tranquillement.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4264,6 +4882,9 @@
 
 # text = L’idée, c’est de s’adapter à votre rythme.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4282,6 +4903,9 @@
 
 # text = Que vous soyez du genre lève-tôt ou noctambule, il y a toujours un créneau qui vous va.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4309,6 +4933,9 @@
 
 # text = N’hésitez pas à venir nous voir, on est là pour vous aider à trouver votre place (et votre café, évidemment ☕).
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4342,6 +4969,9 @@
 
 # text = Bonne semaine et bon courage pour les examens !
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4357,6 +4987,9 @@
 
 # text = On se voit là-bas.
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4368,6 +5001,9 @@
 
 # text = 📚✨
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.0
 # seed = 3
 # record_id = 57c15f76-97df-4c0b-9b1e-7391d6748adf
@@ -4375,6 +5011,9 @@
 
 # text = Salut la team !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4385,6 +5024,9 @@
 
 # text = 👋
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4392,6 +5034,9 @@
 
 # text = Petite alerte info pour tous ceux qui aiment gratter le fond de leur cerveau (ou juste survivre au semestre) : la bib a changé ses horaires !
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4429,6 +5074,9 @@
 
 # text = Pas de panique, ça reste super pratique.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4444,6 +5092,9 @@
 
 # text = Du lundi au vendredi, on est là pour vous de 8h à 22h.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4471,6 +5122,9 @@
 
 # text = Oui, vous avez bien lu, jusqu’à 22h !
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4489,6 +5143,9 @@
 
 # text = Parfait pour les révisions de dernière minute ou pour finir ce projet qui vous ronge depuis trois jours.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4514,6 +5171,9 @@
 
 # text = 📚☕
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4521,6 +5181,9 @@
 
 # text = Et le week-end, pas besoin de rester cloîtré chez vous : on est ouvert de 10h à 18h, samedi et dimanche.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4553,6 +5216,9 @@
 
 # text = Idéal pour un café tranquille entre deux sessions de travail ou pour rendre un devoir en toute sérénité.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4578,6 +5244,9 @@
 
 # text = Bref, que vous soyez du genre lève-tôt ou noctambule, il y a toujours un créneau qui vous va.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4605,6 +5274,9 @@
 
 # text = N’oubliez pas de prendre votre badge et votre bonne humeur.
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4623,6 +5295,9 @@
 
 # text = On se voit là-bas ?
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4634,6 +5309,9 @@
 
 # text = Bonne semaine et bon courage pour les bouquins !
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4649,6 +5327,9 @@
 
 # text = 🚀
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.4
 # seed = 3
 # record_id = 5c3a49f8-7028-4fdd-ba81-8e721578b888
@@ -4656,6 +5337,9 @@
 
 # text = Yo les stud’s !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4666,6 +5350,9 @@
 
 # text = 👋
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4673,6 +5360,9 @@
 
 # text = Petite alerte, les nouveaux horaires de la bib ont changé, et honnêtement ?
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4694,6 +5384,9 @@
 
 # text = C’est plutôt une bonne nouvelle pour notre productivité (ou du moins pour notre procrastination avancée).
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4721,6 +5414,9 @@
 
 # text = 📚
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4728,6 +5424,9 @@
 
 # text = Dès lundi, on peut se poser là-dedans super tôt, dès 8h du mat’, ou bien rester tard le soir jusqu’à 22h.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4764,6 +5463,9 @@
 
 # text = Parfait pour ceux qui aiment travailler la nuit quand le campus est enfin calme.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4785,6 +5487,9 @@
 
 # text = Et pour le week-end, pas de panique : elle reste ouverte le samedi et dimanche de 10h à 18h.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4814,6 +5519,9 @@
 
 # text = Idéal pour rattraper un retard sans avoir l’air d’un zombie à 9h du matin.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4840,6 +5548,9 @@
 
 # text = Bref, plus d’excuses !
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4852,6 +5563,9 @@
 
 # text = Que ce soit pour bosser les partiels, faire du télétravail ou juste fuir la bibliothèque de votre chambre, vous avez l’embarras du choix.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4889,6 +5603,9 @@
 
 # text = N’oubliez pas de prendre votre carte étudiante, votre café préféré ☕ et une bonne playlist pour rester focus.
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4916,6 +5633,9 @@
 
 # text = Allez, on se voit là-bas.
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4929,6 +5649,9 @@
 
 # text = Bonne session à tous, et n’oubliez pas : dormir, c’est aussi important que réviser.
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4954,6 +5677,9 @@
 
 # text = On se dit à plus tard !
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4967,6 +5693,9 @@
 
 # text = 🚀
 # sent_id = 15
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 0.8
 # seed = 3
 # record_id = 2e486f21-697f-4e76-8e77-910613538728
@@ -4974,6 +5703,9 @@
 
 # text = Hey les supers étudiants !
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -4985,6 +5717,9 @@
 
 # text = 👋
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -4992,6 +5727,9 @@
 
 # text = Petite news importante qui va définitivement changer votre raton (mais en bien, on vous le promet 😉).
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5019,6 +5757,9 @@
 
 # text = On a eu l’énorme plaisir d’élargir nos horaires sous vos murs, prêts à assumer !
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5043,6 +5784,9 @@
 
 # text = 📚✨
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5050,6 +5794,9 @@
 
 # text = Dorénavant, du lundi au vendredi, la Biblio va squatter vos journées de 8h du mat’ à 22h du soir.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5088,6 +5835,9 @@
 
 # text = Que vous soyez un lève-tôt pour bosser avant le cours ou un noctambule dont le Deadline ne nuit pas à sa performance, on est là.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5121,6 +5871,9 @@
 
 # text = Même quand vous piquez deux dernières petites heures avant le TP, on reste ouverts.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5143,6 +5896,9 @@
 
 # text = Et le week-end ?
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5153,6 +5909,9 @@
 
 # text = On coupe pas tout !
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5164,6 +5923,9 @@
 
 # text = Du samedi au dimanche, entre 10h et 18h, vous pouvez venir remplir votre week-end de révisions.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5195,6 +5957,9 @@
 
 # text = Le café est toujours chaud, le wifi flingue, et nos biblio s’amusent presque autant que vous en étudiant votre matière du courage.
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5229,6 +5994,9 @@
 
 # text = En gros, c’est simple : quand vous êtes en rade d’endroits pour vous poser et bosser, on a la solution.
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5260,6 +6028,9 @@
 
 # text = On est disponibles, accessibles, et toujours ravis de vous croiser.
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5279,6 +6050,9 @@
 
 # text = N’hésitez pas à passer me dire wé !
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5294,6 +6068,9 @@
 
 # text = Bon courage pour la suite, vous allez largement.
 # sent_id = 15
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5310,6 +6087,9 @@
 
 # text = 💪☕
 # sent_id = 16
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.2
 # seed = 3
 # record_id = e37cb87c-0f74-46ba-8751-89add2881307
@@ -5317,6 +6097,9 @@
 
 # text = Chers supers étudiants 😎
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5327,6 +6110,9 @@
 
 # text = Qui a absolument besoin de procrastiner la nuit ?
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5342,6 +6128,9 @@
 
 # text = Non ?
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5350,6 +6139,9 @@
 
 # text = Calm down.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5359,6 +6151,9 @@
 
 # text = La direction a l’air d’avoir pas mal compris, et ces nouveaux horaires图书馆 sont carrément top branchés petit-dej noctambule d’ancrage du 8 AM.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5395,6 +6190,9 @@
 
 # text = Parce que oui qui dit jamais dis beaucoup ce chut que la base vit jusqu’à presque trop tard la moitié des sujets est encore étalée comme au sol des doigts ça suffit besoin étudier pas taper jusque dans des hor logueurs tous ces deux pas gars heille cours après étude heure commence est 22 là matin si veille qu’à lire heé beaucoup très 6 soif saturday sunned tout pour le boulot quand jamais qui faire qu’une longue brève aujourd’hui quand vraiment sans ton lit zé tout et ou une durée plutôt plus long que oui weekend jusqu'à la plus belle ouverture aussi samedi tout jours de de heures heures etc de jours dans ville a maintenant de vous qui avait cette une vie matin la zéro attention mon vieux ne fais pas partie zéro comme quoi
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5547,6 +6345,9 @@
 
 # text = et n'h s etes vos de vous savez ou sinon de moi ou dous que je l’ dis sa ne sa peut en temps à autre ok on nous frotte si on
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5586,6 +6387,9 @@
 
 # text = mettez
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5593,6 +6397,9 @@
 
 # text = d après qu heyy la raison vous suivez l’énergie ainsi dans votre groupe au cas où plus tard ce n est rien mais y'a pas de raison il se trouve tout bon qui sert ses droits ou veut quelque chose rien moins non oh le droit réclamation nulle
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5651,6 +6458,9 @@
 
 # text = c à le motif où tu
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5663,6 +6473,9 @@
 
 # text = l état de cette structure notre point clé au sein de très haut de chez temps c ce type de poste de la
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5694,6 +6507,9 @@
 
 # text = grande bête de la maison des bohémiens s’affl ècle donc pendant où encore je ne trouve ca dis pas
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 1.6
 # seed = 3
 # record_id = b903da88-3b55-46c4-a899-6bd1e1f24293
@@ -5722,6 +6538,9 @@
 
 # text = De quoi bande de bizut level up’teurs, voilà enfin ses infos qui attendent*
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5742,6 +6561,9 @@
 
 # text = Nan non... ou péchots (mer d pas c)... oui !
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5762,6 +6584,9 @@
 
 # text = voiciles deux nouveaux horaires super pratiques plutôt ubs en !
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5778,6 +6603,9 @@
 
 # text = c jamais bien 😏 des 🚑 pour saucâ, la livre... !
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5797,6 +6625,9 @@
 
 # text = Je regarde alors mieux ! ? !
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5810,6 +6641,9 @@
 
 # text = Sino , ça le clou* à :
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5823,6 +6657,9 @@
 
 # text = Mou i les lûment*
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5833,6 +6670,9 @@
 
 # text = “La loi va donc tout par v s “ L1 !
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5851,6 +6691,9 @@
 
 # text = Les TOUT ne :
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5861,6 +6704,9 @@
 
 # text = « Ump’tidil et les mots Deve se i bien s…
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5877,6 +6723,9 @@
 
 # text = moi
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5884,6 +6733,9 @@
 
 # text = j c la vrai ton l de les rires n l
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5901,6 +6753,9 @@
 
 # text = a qu’il qui y !
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5913,6 +6768,9 @@
 
 # text = “a pas quand on
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5924,6 +6782,9 @@
 
 # text = — uje te av m’t’d la ... de mais est que les
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5943,6 +6804,9 @@
 
 # text = jais eu tes mds : hie
 # sent_id = 15
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5955,6 +6819,9 @@
 
 # text = p’t
 # sent_id = 16
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5963,6 +6830,9 @@
 
 # text = F de s c !
 # sent_id = 17
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
@@ -5974,6 +6844,9 @@
 
 # text = pas qui
 # sent_id = 18
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = casual
 # temperature = 2.0
 # seed = 3
 # record_id = a8e650f8-6896-488e-aa5f-4e58f68cd6ee
