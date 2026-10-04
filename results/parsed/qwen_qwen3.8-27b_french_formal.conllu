@@ -1,5 +1,8 @@
 # text = Objet : Mise à jour des horaires d’ouverture de la bibliothèque universitaire
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -19,6 +22,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -28,6 +34,9 @@
 
 # text = Nous avons le plaisir de vous informer que les horaires d’ouverture de la bibliothèque universitaire seront modifiés à compter du prochain mois.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -60,6 +69,9 @@
 
 # text = Cette adaptation vise à mieux répondre à vos besoins d’étude et à optimiser l’accessibilité de nos ressources documentaires.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -87,6 +99,9 @@
 
 # text = Désormais, la bibliothèque sera accessible du lundi au vendredi, de 8 heures à 22 heures.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -115,6 +130,9 @@
 
 # text = Ce créneau élargi vous permettra de bénéficier d’un environnement calme et propice à la concentration, que ce soit en début de matinée ou en fin de soirée.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -151,6 +169,9 @@
 
 # text = Par ailleurs, l’ouverture le week-end sera maintenue pour faciliter vos révisions et vos travaux de recherche.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -176,6 +197,9 @@
 
 # text = Le samedi ainsi que le dimanche, les portes de la bibliothèque seront ouvertes de 10 heures à 18 heures.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -203,6 +227,9 @@
 
 # text = Nous vous invitons à prendre connaissance de ces nouveaux horaires afin d’organiser au mieux votre emploi du temps.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -233,6 +260,9 @@
 
 # text = Notre équipe reste à votre entière disposition pour répondre à toute question ou vous accompagner dans vos démarches.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -258,6 +288,9 @@
 
 # text = Nous comptons sur votre compréhension et vous remercions de votre engagement dans la vie de notre établissement.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -282,6 +315,9 @@
 
 # text = Cordialement,
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -290,6 +326,9 @@
 
 # text = La Direction de la Bibliothèque Universitaire
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = eed7b808-77fe-4314-b285-1b218cf319ad
@@ -302,6 +341,9 @@
 
 # text = Objet : Mise à jour des horaires d’ouverture de la bibliothèque universitaire
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -321,6 +363,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -330,6 +375,9 @@
 
 # text = Nous avons le plaisir de vous informer que la bibliothèque universitaire adoptera de nouveaux horaires d’ouverture à compter du premier du mois prochain.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -365,6 +413,9 @@
 
 # text = Cette modification a été soigneusement étudiée afin de mieux répondre aux besoins variés de la communauté étudiante et de faciliter l’accès aux ressources documentaires ainsi qu’aux espaces de travail.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -409,6 +460,9 @@
 
 # text = Désormais, la bibliothèque sera accessible du lundi au vendredi, de 8 heures à 22 heures.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -437,6 +491,9 @@
 
 # text = Ce créneau élargi permettra aux étudiants de travailler en début de matinée ou en fin de soirée, selon leurs préférences et leurs contraintes de cours.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -472,6 +529,9 @@
 
 # text = Par ailleurs, l’accès sera également possible le samedi et le dimanche, de 10 heures à 18 heures.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -499,6 +559,9 @@
 
 # text = Ces horaires week-end offrent une opportunité précieuse pour la révision et la recherche approfondie, tout en respectant les temps de repos nécessaires.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -529,6 +592,9 @@
 
 # text = Nous vous encourageons à consulter le site web de l’établissement pour tout complément d’information ou pour réserver un espace en ligne.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -559,6 +625,9 @@
 
 # text = La direction de la bibliothèque reste à votre entière disposition pour répondre à vos éventuelles questions.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -582,6 +651,9 @@
 
 # text = Nous comptons sur votre compréhension et votre collaboration pour le bon déroulement de cette transition.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -604,6 +676,9 @@
 
 # text = Cordialement,
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -612,6 +687,9 @@
 
 # text = La Direction des Services Universitaires
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 1d58c7b9-2696-4fee-b5d5-f632c1f732ed
@@ -625,6 +703,9 @@
 
 # text = Objet : Mise à jour des horaires d’ouverture de la bibliothèque universitaire
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 6eda6ae3-35a3-43e8-a6e4-70d505ec0964
@@ -644,6 +725,9 @@
 
 # text = Madame, Monsieur, Chers étudiants,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 6eda6ae3-35a3-43e8-a6e4-70d505ec0964
@@ -657,6 +741,9 @@
 
 # text = La Direction de la Bibliothèque a le plaisir de vous informer de la mise en place de nouveaux horaires d’opération, entrant en vigueur dès le prochain lundi.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 6eda6ae3-35a3-43e8-a6e4-70d505ec0964
@@ -693,6 +780,9 @@
 
 # text = Cette modification a pour objectif d’optimiser l’accès aux ressources documentaires et de s’adapter au rythme académique de notre communauté universitaire.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 6eda6ae3-35a3-43e8-a6e4-70d505ec0964
@@ -727,6 +817,9 @@
 
 # text = Dorénavant, la bibliothèque sera accessible du lundi au vendredi, entre 8 heures et 22 heures.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 6eda6ae3-35a3-43e8-a6e4-70d505ec0964
@@ -755,6 +848,9 @@
 
 # text = Cette extension horaire vise à faciliter la révision pendant les soirées et à offrir une plus grande flexibilité pour vos travaux de recherche.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 6eda6ae3-35a3-43e8-a6e4-70d505ec0964
@@ -785,6 +881,9 @@
 
 # text = Par ailleurs, l’accès en semaine de fin de semaine sera maintenu, avec un horaire réduit du samedi au dimanche, de 10 heures à 18 heures.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 6eda6ae3-35a3-43e8-a6e4-70d505ec0964
@@ -825,6 +924,9 @@
 
 # text = Nous vous invitons à consulter le site web de l’établissement pour de plus amples informations concernant les modalités d’inscription ou les règles de consultation.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 6eda6ae3-35a3-43e8-a6e4-70d505ec0964
@@ -858,6 +960,9 @@
 
 # text = Comptant sur votre compréhension et votre collaboration pour respecter ces nouveaux horaires, nous restons à votre écoute pour toute question.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 6eda6ae3-35a3-43e8-a6e4-70d505ec0964
@@ -886,6 +991,9 @@
 
 # text = Cordialement,
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 6eda6ae3-35a3-43e8-a6e4-70d505ec0964
@@ -894,6 +1002,9 @@
 
 # text = Le Service des Relations Étudiantes
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 6eda6ae3-35a3-43e8-a6e4-70d505ec0964
@@ -907,6 +1018,9 @@
 
 # text = Objet : Mise à jour des horaires d’ouverture de la bibliothèque universitaire
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = e6d89d07-e5ad-4d16-bb76-de6a7b8a7a10
@@ -926,6 +1040,9 @@
 
 # text = L’administration de la bibliothèque a le plaisir d’informer l’ensemble de la communauté étudiante des modifications apportées à nos horaires d’ouverture.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = e6d89d07-e5ad-4d16-bb76-de6a7b8a7a10
@@ -959,6 +1076,9 @@
 
 # text = Précédant l’arrivée des périodes de révision, cette réorganisation vise non seulement à fluidifier le service, mais également à faciliter l’accès aux ressources académiques essentielles à votre réussite scolaire.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = e6d89d07-e5ad-4d16-bb76-de6a7b8a7a10
@@ -1002,6 +1122,9 @@
 
 # text = Dorénavant, la bibliothèque sera accessible du lundi au vendredi, durant les heures de 8h00 à 22h00.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = e6d89d07-e5ad-4d16-bb76-de6a7b8a7a10
@@ -1035,6 +1158,9 @@
 
 # text = Afin de prendre en compte les besoins spécifiques du week-end, les heures d’ouverture seront adaptées à 10h00 les dimanches de la semaine.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = e6d89d07-e5ad-4d16-bb76-de6a7b8a7a10
@@ -1070,6 +1196,9 @@
 
 # text = Ces nouveaux créneaux sont conçus pour s’harmoniser avec le rythme scolaire et offrir une continuité optimale aux collaborateurs de tout le campus.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = e6d89d07-e5ad-4d16-bb76-de6a7b8a7a10
@@ -1102,6 +1231,9 @@
 
 # text = Nous vous invitons à adapter vos plannings en conséquence et à prendre note de ces dernières ajustements, qui entreront ultimement en vigueur suite à la prochaine réunion administrative.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = e6d89d07-e5ad-4d16-bb76-de6a7b8a7a10
@@ -1138,6 +1270,9 @@
 
 # text = Votre fidèle présentateur reste une priorité absolde dans nos préoccupations quotidiennes.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = e6d89d07-e5ad-4d16-bb76-de6a7b8a7a10
@@ -1156,6 +1291,9 @@
 
 # text = Restent à votre entière disposition pour toute éventuelle question relative à cette transition processuelle.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = e6d89d07-e5ad-4d16-bb76-de6a7b8a7a10
@@ -1177,6 +1315,9 @@
 
 # text = Cordialement,
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = e6d89d07-e5ad-4d16-bb76-de6a7b8a7a10
@@ -1185,6 +1326,9 @@
 
 # text = La Direction de la Bibliothèque
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = e6d89d07-e5ad-4d16-bb76-de6a7b8a7a10
@@ -1196,6 +1340,9 @@
 
 # text = Objet : Mise à jour des horaires d’ouverture de la Bibliothèque Universitaire
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = fca9b430-715a-4eb1-a5ff-88e79af55e18
@@ -1215,6 +1362,9 @@
 
 # text = Chers étudiants et chères étudiantes,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = fca9b430-715a-4eb1-a5ff-88e79af55e18
@@ -1227,6 +1377,9 @@
 
 # text = L’Administration Pédagogique a le plaisir de vous informer que, à compter du premier octobre entrer en vigueur de nouveaux horaires étendus, conceived pour mieux accompagner votre travail académisique.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = fca9b430-715a-4eb1-a5ff-88e79af55e18
@@ -1267,6 +1420,9 @@
 
 # text = ces heures inédits vous assureront plus du tranquillita de l’appentissage et del’telassement pour consacra vos heures vous trauilla dans ces nouveaux heures ;
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = fca9b430-715a-4eb1-a5ff-88e79af55e18
@@ -1299,6 +1455,9 @@
 
 # text = Les bureaux es verés seront de 8h à 22h Lundi vendredi àt 18Lundi weekend à.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = fca9b430-715a-4eb1-a5ff-88e79af55e18
@@ -1323,6 +1482,9 @@
 
 # text = Ce changes permis noy aux vous l’optes nouvelle hours offernt la facilite en gurent your session lectures study pour vous permettons off new hours plus de concentration effective tout en profitant with larger day of access.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = fca9b430-715a-4eb1-a5ff-88e79af55e18
@@ -1369,6 +1531,9 @@
 
 # text = Tout l’épial team livreerss voup accompagera on new change so that off you off de s’enshare the peace esprit as you devote yourself to course avec un nouvelle hour oF off hours.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = fca9b430-715a-4eb1-a5ff-88e79af55e18
@@ -1412,6 +1577,9 @@
 
 # text = It will also your available hither off long off hhe
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = fca9b430-715a-4eb1-a5ff-88e79af55e18
@@ -1428,6 +1596,9 @@
 
 # text = Sachez enfin not the team will welcome Voutre à un des hours comme les heaur hère and veille sur cette à to change for fair use of salle.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = fca9b430-715a-4eb1-a5ff-88e79af55e18
@@ -1465,6 +1636,9 @@
 
 # text = Merel the study available all users this high levels with much delance in effort out day more if delia vous que please from jour long des the as hours tout of recharges off with delance like off.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = fca9b430-715a-4eb1-a5ff-88e79af55e18
@@ -1511,6 +1685,9 @@
 
 # text = Cette nouvelle dynamic favorie en course but each users within them with that way you’s pour se that way Vons place dedie to more like days hours on more and twith
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = fca9b430-715a-4eb1-a5ff-88e79af55e18
@@ -1548,6 +1725,9 @@
 
 # text = Objet : Mise à jour du calendrier horarienAnnonce dest inuant à all ensemble corpo.rraturés étudiants concernant des futures informations à pour bibliothèque instituional é.
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1581,6 +1761,9 @@
 
 # text = Nous déclinontons qu’ avec nos nouvelles resisables et nouveaux repères instiitulirels institution à travers et ces présentation.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1605,6 +1788,9 @@
 
 # text = Découvrez combien ceci inclura également :
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1617,6 +1803,9 @@
 
 # text = De novores modalités sont désormais confirmassées validataines concernant à toute vous retraits :
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1636,6 +1825,9 @@
 
 # text = Toute nouveauest les périodez actaires au niveau vous offrirains : les jours travaillires : entre jours chaque per à quises : de quietais seront ouverturs selon heures pointuit .
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1673,6 +1865,9 @@
 
 # text = de lunes aux jours je venacards via il aura il.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1692,6 +1887,9 @@
 
 # text = cette entrers remercere vers les jour ses ces joues samedi et démelche de à ̎ , ce que cela nos nous a confondre le vendredi soit que jamais sont ouvert ̱ : - que les coures du sam à ₁ou _ sera elle vèont sà hains l'hiers disus d’un jour rerevuse donc enfin là là .
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1758,6 +1956,9 @@
 
 # text = Il ouvre samerd , d’djoi, c lurs l’ heure matin soir à ça tout bien
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1781,6 +1982,9 @@
 
 # text = nos d à très la notre notre il très le faire vous à trè du n ‘sa- pour vo’ utur tout dire y e c – une clre pou des pre ne prp dans vi ses nou rch .
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1829,6 +2033,9 @@
 
 # text = po. ds - : . . .
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1842,6 +2049,9 @@
 
 # text = Version Corrigée !
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1851,6 +2061,9 @@
 
 # text = À
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1858,6 +2071,9 @@
 
 # text = Cette seconde souche ehtion été resl 1ed pour ai votre.
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1875,6 +2091,9 @@
 
 # text = .
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1882,6 +2101,9 @@
 
 # text = À toute voi n e il ti ni est
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1897,6 +2119,9 @@
 
 # text = .
 # sent_id = 15
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1904,6 +2129,9 @@
 
 # text = *.
 # sent_id = 16
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 16b7786b-d4b4-4cc5-b9b2-c1379c19828f
@@ -1911,6 +2139,9 @@
 
 # text = Objet : Mise à jour des horaires d’ouverture de la bibliothèque universitaire
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -1930,6 +2161,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -1939,6 +2173,9 @@
 
 # text = Nous avons le plaisir de vous informer que les horaires d’ouverture de la bibliothèque universitaire seront modifiés à compter du prochain mois.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -1971,6 +2208,9 @@
 
 # text = Cette adaptation vise à mieux répondre à vos besoins d’étude et à optimiser l’accessibilité de nos ressources documentaires.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -1998,6 +2238,9 @@
 
 # text = Désormais, la bibliothèque sera accessible du lundi au vendredi, de 8 heures à 22 heures.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -2026,6 +2269,9 @@
 
 # text = Ce créneau élargi vous permettra de bénéficier d’un environnement calme et propice à la concentration, que ce soit en début de matinée ou en fin de soirée.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -2062,6 +2308,9 @@
 
 # text = Par ailleurs, l’ouverture le week-end sera maintenue pour faciliter vos révisions et vos travaux de recherche.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -2087,6 +2336,9 @@
 
 # text = Le samedi ainsi que le dimanche, les portes de la bibliothèque seront ouvertes de 10 heures à 18 heures.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -2114,6 +2366,9 @@
 
 # text = Nous vous invitons à prendre connaissance de ces nouveaux horaires afin d’organiser au mieux votre emploi du temps.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -2144,6 +2399,9 @@
 
 # text = Notre équipe reste à votre entière disposition pour répondre à toute question ou vous accompagner dans vos démarches.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -2169,6 +2427,9 @@
 
 # text = Nous comptons sur votre compréhension et vous remercions de votre engagement dans la vie de notre établissement.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -2193,6 +2454,9 @@
 
 # text = Cordialement,
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -2201,6 +2465,9 @@
 
 # text = La Direction de la Bibliothèque Universitaire
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = 932f838f-3735-40a2-84e4-41e31f91ad12
@@ -2213,6 +2480,9 @@
 
 # text = Objet : Mise à jour des horaires d’ouverture de la bibliothèque universitaire
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2232,6 +2502,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2241,6 +2514,9 @@
 
 # text = Nous avons le plaisir de vous informer que les horaires d’ouverture de la bibliothèque universitaire feront l’objet d’une révision à compter du premier du mois prochain.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2281,6 +2557,9 @@
 
 # text = Cette adaptation vise à mieux répondre à vos besoins académiques et à faciliter l’accès aux ressources documentaires ainsi qu’aux espaces de travail.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2316,6 +2595,9 @@
 
 # text = Dorénavant, la bibliothèque sera accessible du lundi au vendredi, de 8 heures à 22 heures.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2344,6 +2626,9 @@
 
 # text = Cette extension des horaires en soirée vous permettra de bénéficier d’un environnement calme et propice à l’étude, même après la fin des cours.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2381,6 +2666,9 @@
 
 # text = De plus, pour vous accompagner durant le week-end, les locaux resteront ouverts le samedi et le dimanche, de 10 heures à 18 heures.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2414,6 +2702,9 @@
 
 # text = Nous vous encourageons à consulter le site web de la bibliothèque pour vérifier ces nouvelles disponibilités avant vos visites.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2440,6 +2731,9 @@
 
 # text = Cette mesure témoigne de notre engagement à soutenir votre réussite scolaire et à offrir un cadre d’apprentissage optimal.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2466,6 +2760,9 @@
 
 # text = Nous restons à votre entière disposition pour toute question ou suggestion concernant ces changements.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2487,6 +2784,9 @@
 
 # text = Cordialement,
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2495,6 +2795,9 @@
 
 # text = La Direction de la Bibliothèque Universitaire
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = bbb87e65-a82f-40bb-a6e5-77f1e9c05377
@@ -2507,6 +2810,9 @@
 
 # text = À l’attention de l’ensemble du corps étudiant,
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2525,6 +2831,9 @@
 
 # text = Dans le but d’optimiser l’accès aux ressources documentaires et de mieux répondre aux besoins académiques de la communauté universitaire, il est porté à votre connaissance une modification substantielle des horaires d’ouverture de la bibliothèque centrale.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2577,6 +2886,9 @@
 
 # text = À compter du début du prochain semestre, les nouveaux horaires en vigueur seront les suivants.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2604,6 +2916,9 @@
 
 # text = Du lundi au vendredi, les locaux seront accessibles quotidiennement de 8 heures à 22 heures.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2631,6 +2946,9 @@
 
 # text = Cette extension horaire est destinée à faciliter les révisions tardives ainsi que les travaux de groupe en fin de journée.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2658,6 +2976,9 @@
 
 # text = Par ailleurs, les jours de week-end, à savoir le samedi et le dimanche, la bibliothèque accueillera ses usagers de 10 heures à 18 heures, garantissant ainsi une continuité de service pour les recherches personnelles et la consultation de la presse.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2709,6 +3030,9 @@
 
 # text = La Direction des Bibliothèques et de l’Information tient à exprimer son attachement au confort de travail de l’ensemble des étudiants.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2744,6 +3068,9 @@
 
 # text = Ces ajustements témoignent de l’engagement constant de l’établissement à soutenir la réussite académique de chacun.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2768,6 +3095,9 @@
 
 # text = Nous vous invitons à prendre note de ces nouvelles dispositions et à planifier en conséquence vos visites.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2792,6 +3122,9 @@
 
 # text = Nous restons à votre entière disposition pour tout complément d’information.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2810,6 +3143,9 @@
 
 # text = Cordialement,
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2818,6 +3154,9 @@
 
 # text = La Direction des Services Universitaires
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = ffb574e5-6dbb-4d7f-baf5-8a33f7eb1253
@@ -2831,6 +3170,9 @@
 
 # text = La Direction de la Bibliothèque Universelle a l’honneur d’informer l’ensemble du corps étudiant des nouvelles dispositions horaires entreront en vigueur à compter du premier jour du mois prochain.
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 185b48b8-cc1c-4adb-aaa2-9f4dd351076e
@@ -2875,6 +3217,9 @@
 
 # text = Afin de mieux orchestrer les besoins d’accueil et de répondre aux attentes liées aux périodes d’examen, l’infrastructure bibliothèque étendra significativement ses plages d’ouverture.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 185b48b8-cc1c-4adb-aaa2-9f4dd351076e
@@ -2914,6 +3259,9 @@
 
 # text = Les étudiants będą pouvoir accéder aux documentaires et aux salles de lectures du lundi au vendredi, entre huit heures du matin et vingt-deux heures.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 185b48b8-cc1c-4adb-aaa2-9f4dd351076e
@@ -2956,6 +3304,9 @@
 
 # text = Par ailleurs, l’accès public sera largement permis les week-ends, soit les samedis et les dimanches, de dix heures à dix-huit heures.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 185b48b8-cc1c-4adb-aaa2-9f4dd351076e
@@ -2988,6 +3339,9 @@
 
 # text = Cette reformulation vise assurément à offrir un environnement d’étude plus souple et un service de proximité optimal tout au long de l’année.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 185b48b8-cc1c-4adb-aaa2-9f4dd351076e
@@ -3021,6 +3375,9 @@
 
 # text = Nous invitons chaque communauté universitaire à respecter scrupuleusement ces nouvelles plages horaires et à se familiariser avec les modalités d’identification maintenables via les cartes étudiantes habituelles.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 185b48b8-cc1c-4adb-aaa2-9f4dd351076e
@@ -3055,6 +3412,9 @@
 
 # text = La Direction reste entièrement à votre disposition pour répondre à toute question complémentaire.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 185b48b8-cc1c-4adb-aaa2-9f4dd351076e
@@ -3075,6 +3435,9 @@
 
 # text = Un grand merci pour votre enthousiasme et pour votre confiance perdue dans cette instance.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 185b48b8-cc1c-4adb-aaa2-9f4dd351076e
@@ -3096,6 +3459,9 @@
 
 # text = à l’attention de l’ensemble des étudiants et de la universitaire, l’Institut met à votre attention les nouvelles contraintes horaires d’ouverture de la bibliothèque centrale.
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = f69e0b1f-6ecd-4b86-b252-7d750fe363f6
@@ -3134,6 +3500,9 @@
 
 # text = En vertu du souci constant dadapter nos services aux impérants historiques et opérationnels de nos précieuses institutions, les nouvelles règles temporelles commo- menceront dans quinze jours supplémenterors avec plaisir nos acquis .
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = f69e0b1f-6ecd-4b86-b252-7d750fe363f6
@@ -3178,6 +3547,9 @@
 
 # text = dès ce là chaque année.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = f69e0b1f-6ecd-4b86-b252-7d750fe363f6
@@ -3190,6 +3562,9 @@
 
 # text = du la jeudi prochain précisément nous annonce en respect que pour tous en direction vers direction, vers 8 que matino et aussi jules dimanicne chacun au sens ou du sept ou sept où vous soit disponible respectant ainsi une une offre service riche inclure ouverte de je je la bien au service de de plusieurs service dans des conditions optimum nous dans ses conditions où où optimale tous chics efforts ont menonné . des prières sonores .
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = f69e0b1f-6ecd-4b86-b252-7d750fe363f6
@@ -3280,6 +3655,9 @@
 
 # text = mais les toutes mais ce les amain pour garantir inali en assurance a des des de cours ;
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = f69e0b1f-6ecd-4b86-b252-7d750fe363f6
@@ -3304,6 +3682,9 @@
 
 # text = sont fere qui garantira : tous ce savoir qui nous tous n’ayons dans aucune cas occasionnelle que il pourrait y avoir rien changer: .
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = f69e0b1f-6ecd-4b86-b252-7d750fe363f6
@@ -3336,6 +3717,9 @@
 
 # text = même mais c mieu je non mieu, plutôt même non qui ont avec assumer ces de toutes façons alors je pri ;
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = f69e0b1f-6ecd-4b86-b252-7d750fe363f6
@@ -3365,6 +3749,9 @@
 
 # text = ne le dirais souvent chaque sa en mon choix meilleur jour nous le ferez plus d’une raison suivante la nous ayée souvent pour vous ne fad que ces tout ce que c donc nos horaires serons toujours respectueuses nous vous remercions par de votre patience dans la plus sincérité
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = f69e0b1f-6ecd-4b86-b252-7d750fe363f6
@@ -3421,6 +3808,9 @@
 
 # text = Annonce
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = b1684097-05d3-4693-bb1b-49608f6faabe
@@ -3428,6 +3818,9 @@
 
 # text = Concernant la Réforme des Halles Accèslieux
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = b1684097-05d3-4693-bb1b-49608f6faabe
@@ -3442,6 +3835,9 @@
 
 # text = Dans le objectif favoriser s'écononies services édtudiens réaménager horaires offreis li bibliothèque univwersitairres reannsuée service accompoader une activité augentent les periodn studanirs universaries prêter resances service s accès jours supplémentaire est définidiver suivi qu : toutes ouvrertu universel soirée chaque seman la place cibles servir étudiants demande quotinians ce à prèbater servicer ou par bipsilication acuiocurées étude dans une bonne contcion bien qui en à réauxaunur pauiern à nousi qui heure reansuèle no d è a s er siincausour.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = b1684097-05d3-4693-bb1b-49608f6faabe
@@ -3529,6 +3925,9 @@
 
 # text = bien jeinud réamender paser ser al à fin à nousicè soir paourescivi d merrrrh in al.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = b1684097-05d3-4693-bb1b-49608f6faabe
@@ -3552,6 +3951,9 @@
 
 # text = Objet : Mise à jour des horaires d’ouverture de la bibliothèque universitaire
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3571,6 +3973,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3580,6 +3985,9 @@
 
 # text = Nous avons le plaisir de vous informer que les horaires d’ouverture de la bibliothèque universitaire seront modifiés à compter du prochain mois.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3612,6 +4020,9 @@
 
 # text = Cette adaptation vise à mieux répondre à vos besoins d’étude et à optimiser l’accessibilité de nos ressources documentaires.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3639,6 +4050,9 @@
 
 # text = Désormais, la bibliothèque sera accessible du lundi au vendredi, de 8 heures à 22 heures.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3667,6 +4081,9 @@
 
 # text = Ce créneau élargi vous permettra de bénéficier d’un environnement calme et propice à la concentration, que ce soit en début de matinée ou en fin de soirée.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3703,6 +4120,9 @@
 
 # text = Par ailleurs, l’ouverture le week-end sera maintenue pour faciliter vos révisions et vos travaux de recherche.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3728,6 +4148,9 @@
 
 # text = Le samedi ainsi que le dimanche, les portes de la bibliothèque seront ouvertes de 10 heures à 18 heures.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3755,6 +4178,9 @@
 
 # text = Nous vous invitons à prendre connaissance de ces nouveaux horaires afin d’organiser au mieux votre emploi du temps.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3785,6 +4211,9 @@
 
 # text = Notre équipe reste à votre entière disposition pour répondre à toute question ou vous accompagner dans vos démarches.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3810,6 +4239,9 @@
 
 # text = Nous comptons sur votre compréhension et vous remercions de votre engagement dans la vie de notre établissement.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3834,6 +4266,9 @@
 
 # text = Cordialement,
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3842,6 +4277,9 @@
 
 # text = La Direction de la Bibliothèque Universitaire
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = 5c8d2ef9-e94b-4db0-87f7-cc9970ac5eef
@@ -3854,6 +4292,9 @@
 
 # text = Objet : Mise à jour des horaires d’ouverture de la bibliothèque universitaire
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -3873,6 +4314,9 @@
 
 # text = Chers étudiants,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -3882,6 +4326,9 @@
 
 # text = Nous avons le plaisir de vous informer que la bibliothèque universitaire adoptera de nouveaux horaires à compter du premier du mois prochain.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -3915,6 +4362,9 @@
 
 # text = Cette modification a été étudiée attentivement afin de mieux répondre à vos besoins d’étude et de recherche tout au long de la semaine.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -3948,6 +4398,9 @@
 
 # text = Désormais, la bibliothèque sera accessible du lundi au vendredi, de 8 heures à 22 heures.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -3976,6 +4429,9 @@
 
 # text = Ce créneau élargi vous permettra de consulter les ressources documentaires et d’utiliser les espaces de travail dans des conditions optimales, que ce soit en début de matinée ou en soirée.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -4015,6 +4471,9 @@
 
 # text = Par ailleurs, l’ouverture le week-end sera maintenue pour vous accompagner dans vos révisions et projets.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -4039,6 +4498,9 @@
 
 # text = Le samedi ainsi que le dimanche, la bibliothèque sera ouverte de 10 heures à 18 heures.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -4063,6 +4525,9 @@
 
 # text = Nous vous remercions de votre compréhension et de votre coopération lors de cette transition.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -4084,6 +4549,9 @@
 
 # text = Nous restons à votre entière disposition pour toute question concernant ces nouvelles dispositions.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -4104,6 +4572,9 @@
 
 # text = Nous comptons sur votre présence pour profiter pleinement de ces aménagements qui visent à favoriser votre réussite académique.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -4129,6 +4600,9 @@
 
 # text = Cordialement,
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -4137,6 +4611,9 @@
 
 # text = La Direction de la Bibliothèque Universitaire
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = b76a43fc-babe-4280-bff2-cd7df1bcc0a9
@@ -4149,6 +4626,9 @@
 
 # text = À l’attention de l’ensemble de la communauté étudiante,
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 6f30d9e0-dcf4-45d5-9570-c053aab55d39
@@ -4166,6 +4646,9 @@
 
 # text = La Direction des Services à la Bibliothèque a le plaisir de vous informer des modifications apportées aux horaires d’ouverture afin de mieux répondre à vos besoins académiques et professionnels.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 6f30d9e0-dcf4-45d5-9570-c053aab55d39
@@ -4207,6 +4690,9 @@
 
 # text = Ces ajustements visent à offrir une accessibilité accrue aux ressources documentaires ainsi qu’aux espaces de travail, tout en optimisant la gestion des installations.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 6f30d9e0-dcf4-45d5-9570-c053aab55d39
@@ -4245,6 +4731,9 @@
 
 # text = Dorénavant, la bibliothèque sera accessible du lundi au vendredi, entre 8 heures et 22 heures.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 6f30d9e0-dcf4-45d5-9570-c053aab55d39
@@ -4273,6 +4762,9 @@
 
 # text = Pour les fins de semaine, les espaces resteront ouverts du samedi au dimanche, de 10 heures à 18 heures.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 6f30d9e0-dcf4-45d5-9570-c053aab55d39
@@ -4305,6 +4797,9 @@
 
 # text = Nous encourageons vivement chacun d’entre vous à consulter régulièrement le site web institutionnel pour s’assurer de la pertinence de ces horaires, qui pourraient évoluer en fonction des périodes d’examens ou des événements spéciaux.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 6f30d9e0-dcf4-45d5-9570-c053aab55d39
@@ -4351,6 +4846,9 @@
 
 # text = Cette nouvelle organisation témoigne de notre engagement constant à soutenir la réussite de vos études et à favoriser un environnement d’apprentissage optimal.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 6f30d9e0-dcf4-45d5-9570-c053aab55d39
@@ -4381,6 +4879,9 @@
 
 # text = Nous vous remercions de votre compréhension et de votre coopération dans l’application de ces nouvelles dispositions.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 6f30d9e0-dcf4-45d5-9570-c053aab55d39
@@ -4405,6 +4906,9 @@
 
 # text = Pour toute question supplémentaire, n’hésitez pas à contacter le service de la documentation.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 6f30d9e0-dcf4-45d5-9570-c053aab55d39
@@ -4427,6 +4931,9 @@
 
 # text = Cordialement,
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 6f30d9e0-dcf4-45d5-9570-c053aab55d39
@@ -4435,6 +4942,9 @@
 
 # text = La Direction des Services à la Bibliothèque
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 6f30d9e0-dcf4-45d5-9570-c053aab55d39
@@ -4450,6 +4960,9 @@
 
 # text = Aux étudiants chers membres de la communauté universitaire
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 6bcf0f2c-da6b-448a-81f4-3581423fc90b
@@ -4466,6 +4979,9 @@
 
 # text = Nous avons le plaisir de vous informer des modifications nécessaires aux horaires d’ouverture de la bibliothèque centrale, afin de mieux répondre aux besoins académiques et de offrir un environnement d’étude plus praticable pour l’ensemble du corps étudiant.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 6bcf0f2c-da6b-448a-81f4-3581423fc90b
@@ -4520,6 +5036,9 @@
 
 # text = À compter du premier mois prochain, le nouvel horaire en vigueur est le suivant : la bibliothèque sera accessible du lundi au vendredi, de 8 heures du matin à 22 heures du soir.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 6bcf0f2c-da6b-448a-81f4-3581423fc90b
@@ -4572,6 +5091,9 @@
 
 # text = Afin de faciliter la préparation pour les examens et les travaux de groupe, les jours se week-ends profiteront désormais d’un créneau allongé.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 6bcf0f2c-da6b-448a-81f4-3581423fc90b
@@ -4603,6 +5125,9 @@
 
 # text = En effet, le samedi comme le dimanche, les services restent ouverts de 10 heures à 18 heures.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 6bcf0f2c-da6b-448a-81f4-3581423fc90b
@@ -4629,6 +5154,9 @@
 
 # text = Ces ajustements visent à optimiser votre flexibilité lors de la période de préparation intensive des cours.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 6bcf0f2c-da6b-448a-81f4-3581423fc90b
@@ -4654,6 +5182,9 @@
 
 # text = Nous vous recommandons vivement de planifier vos sessions d’études en conséquence.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 6bcf0f2c-da6b-448a-81f4-3581423fc90b
@@ -4673,6 +5204,9 @@
 
 # text = Pour toute question relative à ce changement, n’hésitez pas à consulter notre site internet ou à vous rapprocher du personnel d’accueil, qui reste à votre entière disposition pour vous accompagner dans cette transition.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 6bcf0f2c-da6b-448a-81f4-3581423fc90b
@@ -4719,6 +5253,9 @@
 
 # text = Nous comptons sur votre bonne collaboration et vous remercions de votre compréhension.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 6bcf0f2c-da6b-448a-81f4-3581423fc90b
@@ -4738,6 +5275,9 @@
 
 # text = La Direction des Services
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 6bcf0f2c-da6b-448a-81f4-3581423fc90b
@@ -4750,6 +5290,9 @@
 
 # text = Aux étudiants
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = 6bcf0f2c-da6b-448a-81f4-3581423fc90b
@@ -4760,6 +5303,9 @@
 
 # text = Conformément à votre demande, voici une proposer une annonce officielle rédigée dans un ton professionnel, respecte la longueur d’environ 150 mots (7017 mots trouvés) exigeant et présente les tarifs suivants n (la sortie de les et si une sortie).
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = 9a6ce126-e4b2-44a3-a22b-19b8d0b4015f
@@ -4813,6 +5359,9 @@
 
 # text = À l’attention honorable du corps étud rant, la présente convioit de votre courlie officilire à vue que
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -4840,6 +5389,9 @@
 
 # text = la Faculte A cadrait avec success le quinquagenieur des institutions relatives
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -4859,6 +5411,9 @@
 
 # text = lie le matin hierdu notoriêsettes dans l ’espective d avoir la quilib pour an cours aux
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -4884,6 +5439,9 @@
 
 # text = oisses permissés son
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -4893,6 +5451,9 @@
 
 # text = Les jour et time seront ainsi convenu:
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -4907,6 +5468,9 @@
 
 # text = Pour les semaines pommusqours, vous
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -4919,6 +5483,9 @@
 
 # text = erèges peuvent rec à des servieurs du monnax
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -4935,6 +5502,9 @@
 
 # text = ...la qual que servis , , , ttes chques ent du lieu **sur octle he des quatin ;
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -4961,6 +5531,9 @@
 
 # text = du un ;
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -4970,6 +5543,9 @@
 
 # text = des mains à vintsdu Heit pour dis jaus se vants are les auro qui peuvent l’évoles dus jours on que eux aussi du
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5004,6 +5580,9 @@
 
 # text = dume es alves ; ;
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5015,6 +5594,9 @@
 
 # text = nous perverir est le demoir pour ques et ;
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5030,6 +5612,9 @@
 
 # text = dushe vos for des services qui pen
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5043,6 +5628,9 @@
 
 # text = A vous eren donc ;
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5054,6 +5642,9 @@
 
 # text = -au vu 7 des ses- de vie et alizaiers po .
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5073,6 +5664,9 @@
 
 # text = le in ;
 # sent_id = 15
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5082,6 +5676,9 @@
 
 # text = des ou quile vous ent 2... les alivutires sont vos esu vos in de ma des révalions ;
 # sent_id = 16
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5109,6 +5706,9 @@
 
 # text = dans le...
 # sent_id = 17
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5118,6 +5718,9 @@
 
 # text = ils seront rems us siir
 # sent_id = 18
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5129,6 +5732,9 @@
 
 # text = du iau jour à 3 h...nont de iuc de nuit.
 # sent_id = 19
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5147,6 +5753,9 @@
 
 # text = , . vos cotes sons ires ;
 # sent_id = 20
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5160,6 +5769,9 @@
 
 # text = il reste est un que quans ons tandards av ubs q’rns
 # sent_id = 21
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5178,6 +5790,9 @@
 
 # text = irans vos
 # sent_id = 22
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5186,6 +5801,9 @@
 
 # text = désil que sou is
 # sent_id = 23
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5196,6 +5814,9 @@
 
 # text = vos que votres qen’ce ses du n... tous ce qui alts ses servciers il sont vos
 # sent_id = 24
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5223,6 +5844,9 @@
 
 # text = nos our vous
 # sent_id = 25
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5232,6 +5856,9 @@
 
 # text = les avar
 # sent_id = 26
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5240,6 +5867,9 @@
 
 # text = q et as d ans nt il doit ons ns est
 # sent_id = 27
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328
@@ -5257,6 +5887,9 @@
 
 # text = par ont les
 # sent_id = 28
+# model = qwen/qwen3.8-27b
+# language = french
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = 558c08c1-bf55-4a85-937c-c7562b08e328

@@ -1,5 +1,8 @@
 # text = Official Announcement: Revised Library Operating Hours
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = ce41fba2-25ed-479a-aeb4-c7d37d3bad31
@@ -13,6 +16,9 @@
 
 # text = Dear Students,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = ce41fba2-25ed-479a-aeb4-c7d37d3bad31
@@ -22,6 +28,9 @@
 
 # text = We are pleased to announce the implementation of new operating hours for the University Library, effective immediately.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = ce41fba2-25ed-479a-aeb4-c7d37d3bad31
@@ -47,6 +56,9 @@
 
 # text = These adjustments have been made to better accommodate the diverse academic schedules of our student body and to provide extended access to essential resources.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = ce41fba2-25ed-479a-aeb4-c7d37d3bad31
@@ -78,6 +90,9 @@
 
 # text = Please note the following schedule: * Monday through Friday: 8:00 AM to 10:00 PM * Saturday and Sunday: 10:00 AM to 6:00 PM
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = ce41fba2-25ed-479a-aeb4-c7d37d3bad31
@@ -110,6 +125,9 @@
 
 # text = We encourage all students to plan their study sessions accordingly to maximize their use of the facility.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = ce41fba2-25ed-479a-aeb4-c7d37d3bad31
@@ -134,6 +152,9 @@
 
 # text = The library remains a vital hub for academic success, and we are committed to ensuring it is accessible during the most convenient times for your coursework and research.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = ce41fba2-25ed-479a-aeb4-c7d37d3bad31
@@ -170,6 +191,9 @@
 
 # text = Should you have any questions regarding these changes or require assistance with library services, please do not hesitate to contact the library administration.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = ce41fba2-25ed-479a-aeb4-c7d37d3bad31
@@ -201,6 +225,9 @@
 
 # text = We appreciate your continued dedication to your studies and look forward to serving you during these expanded hours.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = ce41fba2-25ed-479a-aeb4-c7d37d3bad31
@@ -226,6 +253,9 @@
 
 # text = Sincerely,
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = ce41fba2-25ed-479a-aeb4-c7d37d3bad31
@@ -234,6 +264,9 @@
 
 # text = The Library Administration Team
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 1
 # record_id = ce41fba2-25ed-479a-aeb4-c7d37d3bad31
@@ -244,6 +277,9 @@
 
 # text = Official Announcement: Revised Library Operating Hours
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -257,6 +293,9 @@
 
 # text = Dear Students,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -266,6 +305,9 @@
 
 # text = We are pleased to inform you of the updated operating hours for the University Library, effective immediately.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -291,6 +333,9 @@
 
 # text = These adjustments have been implemented to better accommodate the diverse academic schedules of our student body and to provide extended access to essential resources.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -322,6 +367,9 @@
 
 # text = Please note the new schedule as follows:
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -336,6 +384,9 @@
 
 # text = Monday through Friday: 8:00 AM to 10:00 PM Saturday and Sunday: 10:00 AM to 6:00 PM
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -360,6 +411,9 @@
 
 # text = We encourage all students to plan their study sessions accordingly to maximize their use of the facility during these expanded evening hours.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -389,6 +443,9 @@
 
 # text = The library remains a vital hub for academic excellence, and we are committed to ensuring it remains accessible when you need it most.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -420,6 +477,9 @@
 
 # text = Should you have any questions regarding these changes or require assistance with library services, please do not hesitate to contact the library administration office.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -452,6 +512,9 @@
 
 # text = We appreciate your continued dedication to your studies and look forward to serving you during these new hours.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -477,6 +540,9 @@
 
 # text = Sincerely,
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -485,6 +551,9 @@
 
 # text = The Library Administration Team
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 1
 # record_id = 56001e9b-6707-425f-8595-ea54918f205e
@@ -495,6 +564,9 @@
 
 # text = Official Announcement: Revised Library Operating Hours
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -508,6 +580,9 @@
 
 # text = To enhance accessibility and better accommodate the diverse academic schedules of our student body, the University Library is pleased to announce updated operating hours effective immediately.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -542,6 +617,9 @@
 
 # text = These revisions are designed to provide greater flexibility for study, research, and collaboration throughout the week.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -567,6 +645,9 @@
 
 # text = Beginning this week, the library will open from 8:00 AM to 10:00 PM, Monday through Friday.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -592,6 +673,9 @@
 
 # text = This extended evening access is intended to support students who require additional time for coursework or independent study after regular classes conclude.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -621,6 +705,9 @@
 
 # text = On weekends, the facility will remain open from 10:00 AM to 6:00 PM, Saturday and Sunday, ensuring continued access to resources and quiet study spaces during the weekend period.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -660,6 +747,9 @@
 
 # text = We encourage all students to review these new schedules and plan their visits accordingly.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -681,6 +771,9 @@
 
 # text = The library administration remains committed to fostering an environment that supports academic excellence.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -701,6 +794,9 @@
 
 # text = For further inquiries regarding specific services or room reservations, please consult the official university website or contact the library front desk directly.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -731,6 +827,9 @@
 
 # text = Thank you for your continued engagement with your academic community.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -748,6 +847,9 @@
 
 # text = Sincerely,
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -756,6 +858,9 @@
 
 # text = The Office of Academic Affairs University Library Management
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 1
 # record_id = 19458584-057d-4477-a9b7-ee685728fe15
@@ -770,6 +875,9 @@
 
 # text = Official Announcement: Revised Library Operating Hours
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = d4ba43a1-88dd-4e5e-8f3b-04546f2b98eb
@@ -783,6 +891,9 @@
 
 # text = We are pleased to announce that, effective October 15th, the University Library will adopt a new schedule to better accommodate the diverse academic needs of our student body.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = d4ba43a1-88dd-4e5e-8f3b-04546f2b98eb
@@ -820,6 +931,9 @@
 
 # text = These adjustments are designed to maximizing access to essential resources and providing a conducive environment for focused study.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = d4ba43a1-88dd-4e5e-8f3b-04546f2b98eb
@@ -845,6 +959,9 @@
 
 # text = Under this revised schedule, the Library will be open from Monday through Friday between 8:00 AM and 10:00 PM.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = d4ba43a1-88dd-4e5e-8f3b-04546f2b98eb
@@ -872,6 +989,9 @@
 
 # text = During weekends, specifically Saturday and Sunday, operations will run from 10:00 AM to 6:00 PM.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = d4ba43a1-88dd-4e5e-8f3b-04546f2b98eb
@@ -896,6 +1016,9 @@
 
 # text = Students are advised to check the university website for any temporary closure dates due to special events or maintenance.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = d4ba43a1-88dd-4e5e-8f3b-04546f2b98eb
@@ -922,6 +1045,9 @@
 
 # text = The administration commends the dedicated staff and committed students for supporting the institution’s mission of academic excellence.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = d4ba43a1-88dd-4e5e-8f3b-04546f2b98eb
@@ -948,6 +1074,9 @@
 
 # text = We encourage all members of the university community to make use of these extended hours to enhance their scholarly pursuits.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = d4ba43a1-88dd-4e5e-8f3b-04546f2b98eb
@@ -975,6 +1104,9 @@
 
 # text = For further details regarding specific departmental rules or room reservations, please consult the Library Services portal or contact the front desk directly.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = d4ba43a1-88dd-4e5e-8f3b-04546f2b98eb
@@ -1005,6 +1137,9 @@
 
 # text = Thank you for your flexibility and continued engagement as we strive to improve the educational experience.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 1
 # record_id = d4ba43a1-88dd-4e5e-8f3b-04546f2b98eb
@@ -1028,6 +1163,9 @@
 
 # text = Official Announcement: Revised Student Library Hours
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1041,6 +1179,9 @@
 
 # text = This issuance serves to formally inform the entire university community regarding the finalized operating schedule for the main Student Library.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1068,6 +1209,9 @@
 
 # text = The existing routine is set to undergo a periodic review in order to better accommodate the diverse needs extended periods of individual scholarly engagement in the community from the week preceding this revision cycle first effective date initial protocol follows guidelines as dictated.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1118,6 +1262,9 @@
 
 # text = Official staff office management has voted: Monday - Five times: from the main window.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1141,6 +1288,9 @@
 
 # text = Monday .through. to 10 PM while every.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1156,6 +1306,9 @@
 
 # text = :each is 10 PM.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1168,6 +1321,9 @@
 
 # text = In the end while...
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1179,6 +1335,9 @@
 
 # text = Let it every Day.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1190,6 +1349,9 @@
 
 # text = every ending.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1199,6 +1361,9 @@
 
 # text = ends 2: No for next time all students 2.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1216,6 +1381,9 @@
 
 # text = It applies all doors can now say goodbye everyday .. at said timing window on.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1238,6 +1406,9 @@
 
 # text = It .
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1246,6 +1417,9 @@
 
 # text = For hours.
 # sent_id = 12
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1255,6 +1429,9 @@
 
 # text = Please.
 # sent_id = 13
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1263,6 +1440,9 @@
 
 # text = that would prefer to see the stated structure officially announced in this part.
 # sent_id = 14
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1283,6 +1463,9 @@
 
 # text = so users who start late evening weeks especially during periods of formal examinations all desks are hereby.
 # sent_id = 15
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1307,6 +1490,9 @@
 
 # text = Please .
 # sent_id = 16
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1315,6 +1501,9 @@
 
 # text = That.
 # sent_id = 17
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1323,6 +1512,9 @@
 
 # text = can: say stay aware of announced that starts
 # sent_id = 18
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1338,6 +1530,9 @@
 
 # text = This official plan from weekday early.
 # sent_id = 19
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1351,6 +1546,9 @@
 
 # text = For all Saturdays.
 # sent_id = 20
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1361,6 +1559,9 @@
 
 # text = weekly date based stated can start are first hour start time begins will say all students be issued 12 on day of which this rule allows regular all that
 # sent_id = 21
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1396,6 +1597,9 @@
 
 # text = (Note: I am disregarding an earlier internal struggle to refine my internal self-well phrasing
 # sent_id = 22
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1420,6 +1624,9 @@
 
 # text = 10 hrs Every weekday start for today
 # sent_id = 23
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1433,6 +1640,9 @@
 
 # text = starting point 0 hrs Say be there always starts to provide All staff weekly 12 0 of 0 all please start being careful Every desk state day point regular start that hours can, on hand this is :
 # sent_id = 24
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1478,6 +1688,9 @@
 
 # text = The clock could start at any part as announced
 # sent_id = 25
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1493,6 +1706,9 @@
 
 # text = Let From Desk Starting Let our Being always Regular desk Let's that starts being well Desk all desk that for everyone is exactly today starting well Start Monday Times well has
 # sent_id = 26
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 1
 # record_id = 1b9e2b44-4336-41f5-aee9-0df74a802b10
@@ -1532,6 +1748,9 @@
 
 # text = Official Announcement: Revised Public Library Access Hours
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1546,6 +1765,9 @@
 
 # text = Furthermore, the Campus Libarium is forthcoming to elevate your effective informational availability and productive educational planning cycles.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1571,6 +1793,9 @@
 
 # text = Comprehensive assessments informed administrators about an optimal temporal resolution strategy satisfying the nuanced academic scheduling paradigms noted over the latest curriculum review panels.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1601,6 +1826,9 @@
 
 # text = It requests your acknowledgment upon effective March twenty-triad, Monahan Junior Junior Scholar Lounge extended infrastructure hosting window presently expands.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1630,6 +1858,9 @@
 
 # text = Mandarey Titled Days extend continuously to second AM day shift covering daytime.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1649,6 +1880,9 @@
 
 # text = Extended terminal termination timestamping consistent shift protocol executed synchronus evening completion.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1667,6 +1901,9 @@
 
 # text = Simultaneously, comprehensive recovery timeline corresponding traditional interim buffer periods remains presentation.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1686,6 +1923,9 @@
 
 # text = Secondary scheduled calendarized time commitments occupy concentrated weekday noon-til-dawn stretch alternating sequential format conform standardized semester synchronization outline principle uniform pace variable instructional benchmark.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1721,6 +1961,9 @@
 
 # text = Accordingly notice stakeholders operating under enhanced operational performance quality continuum framework recognize institutional performance reactualization policy commitment executed with utmost confidentiality disciplinary assurance understanding dynamic cognitive environments prevailing contemporary globalized technocratic interactive communicative dialogue spheres evolving multi-dimened synthesis interlaneous mutualistic cohesion collective.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1772,6 +2015,9 @@
 
 # text = Enigmaton complex analytical faculties sustained continuous feedback loops governing reciprocal academic resources coordination effectiveness refinement protocols improvement cycles enhancement sectors support developmental needs prioritizing higher-tier proficiency outcomes directly observed within rigorous accreditation milestones progress monitoring via multidirection contextual examination apparatus reflecting ever-more crucial progressive orientation directives mandated upper-tier administrative decrees aimed further perfect synergy resultant performance achievements possible scholarship orientation support scope deployment measures enacted consistently uniformly so our precious repository shared informational nexus host central organizing thought expression knowledge collection core reference repository standard model template application utilization access efficiency maximization performance output surge rate improved usability architecture foundation ensuring lifelong advancement continued.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1889,6 +2135,9 @@
 
 # text = Final result integrated collective cooperative organizational community benefit impact mutual survival vital ecosystem maintenance thriving student-faculty engagement potential potential synergist optimization process procedure sequential logical function precise proper systematic calculated rational mental capacity strategic targeted deployment framework complete understanding realization goal intended fully delivered direct instructional transmission cycle.
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1946,6 +2195,9 @@
 
 # text = This finalized documented template distributed primary
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 1
 # record_id = 8952ffc0-08d8-46d3-bd5e-97e984cf21fe
@@ -1958,6 +2210,9 @@
 
 # text = Official Announcement: Revised Library Operating Hours
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a30ca306-7948-4be8-ae89-c56985d25e6a
@@ -1971,6 +2226,9 @@
 
 # text = Dear Students,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a30ca306-7948-4be8-ae89-c56985d25e6a
@@ -1980,6 +2238,9 @@
 
 # text = We are pleased to announce the implementation of new operating hours for the University Library, effective immediately.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a30ca306-7948-4be8-ae89-c56985d25e6a
@@ -2005,6 +2266,9 @@
 
 # text = These adjustments have been made to better accommodate the diverse academic schedules of our student body and to provide extended access to essential resources.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a30ca306-7948-4be8-ae89-c56985d25e6a
@@ -2036,6 +2300,9 @@
 
 # text = Please note the following schedule: * Monday through Friday: 8:00 AM to 10:00 PM * Saturday and Sunday: 10:00 AM to 6:00 PM
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a30ca306-7948-4be8-ae89-c56985d25e6a
@@ -2068,6 +2335,9 @@
 
 # text = We encourage all students to plan their study sessions accordingly to maximize their use of the facility.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a30ca306-7948-4be8-ae89-c56985d25e6a
@@ -2092,6 +2362,9 @@
 
 # text = The library remains a vital hub for academic success, and we are committed to ensuring it is accessible during the most convenient times for your coursework and research.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a30ca306-7948-4be8-ae89-c56985d25e6a
@@ -2128,6 +2401,9 @@
 
 # text = Should you have any questions regarding these changes or require assistance with library services, please do not hesitate to contact the library administration.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a30ca306-7948-4be8-ae89-c56985d25e6a
@@ -2159,6 +2435,9 @@
 
 # text = We appreciate your continued dedication to your studies and look forward to serving you during these expanded hours.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a30ca306-7948-4be8-ae89-c56985d25e6a
@@ -2184,6 +2463,9 @@
 
 # text = Sincerely,
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a30ca306-7948-4be8-ae89-c56985d25e6a
@@ -2192,6 +2474,9 @@
 
 # text = The Library Administration Team
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 2
 # record_id = a30ca306-7948-4be8-ae89-c56985d25e6a
@@ -2202,6 +2487,9 @@
 
 # text = Official Notice: Revised Library Operating Hours
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2215,6 +2503,9 @@
 
 # text = Dear Students,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2224,6 +2515,9 @@
 
 # text = We are pleased to announce the implementation of new operating hours for the University Library, effective immediately.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2249,6 +2543,9 @@
 
 # text = These adjustments have been made to better accommodate the diverse academic schedules and research needs of our student body.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2275,6 +2572,9 @@
 
 # text = Please note the following schedule: * Monday through Friday: 8:00 AM to 10:00 PM * Saturday and Sunday: 10:00 AM to 6:00 PM
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2307,6 +2607,9 @@
 
 # text = The extended weekday hours will provide additional opportunities for late-night study sessions, while the weekend availability ensures continued access to resources during the latter part of the week.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2345,6 +2648,9 @@
 
 # text = We encourage all students to plan their visits accordingly to maximize their use of these facilities.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2368,6 +2674,9 @@
 
 # text = For any inquiries regarding specific resource availability or special event closures, please contact the Library Services Desk.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2393,6 +2702,9 @@
 
 # text = We remain committed to providing a conducive and supportive environment for academic excellence.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2413,6 +2725,9 @@
 
 # text = Thank you for your attention to this important update.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2429,6 +2744,9 @@
 
 # text = Sincerely,
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2437,6 +2755,9 @@
 
 # text = The Administration University Library Services
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 2
 # record_id = 21851ff3-ee94-42fa-af2a-28c2afe7474e
@@ -2448,6 +2769,9 @@
 
 # text = The University Library is pleased to announce the implementation of revised operating hours designed to better accommodate the academic schedules of our student body.
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = 0a2980ec-9eab-41e1-9c50-b5d562af4463
@@ -2479,6 +2803,9 @@
 
 # text = Effective immediately, the library will be accessible to all enrolled students from Monday through Friday, between the hours of 8:00 AM and 10:00 PM.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = 0a2980ec-9eab-41e1-9c50-b5d562af4463
@@ -2512,6 +2839,9 @@
 
 # text = Additionally, on weekends, the facility will remain open to the campus community from 10:00 AM to 6:00 PM, both on Saturdays and Sundays.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = 0a2980ec-9eab-41e1-9c50-b5d562af4463
@@ -2545,6 +2875,9 @@
 
 # text = These extended hours are intended to provide students with greater flexibility for individual study, collaborative group projects, and access to digital resources.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = 0a2980ec-9eab-41e1-9c50-b5d562af4463
@@ -2576,6 +2909,9 @@
 
 # text = We encourage all students to take full advantage of these updated schedules to support their academic goals.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = 0a2980ec-9eab-41e1-9c50-b5d562af4463
@@ -2600,6 +2936,9 @@
 
 # text = Please note that specific study rooms or special collections may have separate reservation requirements; therefore, we advise checking the official library website for any additional guidelines or restrictions prior to your visit.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = 0a2980ec-9eab-41e1-9c50-b5d562af4463
@@ -2641,6 +2980,9 @@
 
 # text = We remain committed to fostering a conducive and resource-rich environment for learning and research.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = 0a2980ec-9eab-41e1-9c50-b5d562af4463
@@ -2664,6 +3006,9 @@
 
 # text = Your feedback on the new schedule is welcome and can be directed to the library administration office.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 2
 # record_id = 0a2980ec-9eab-41e1-9c50-b5d562af4463
@@ -2688,6 +3033,9 @@
 
 # text = Students are hereby informed of the revised operating schedule for the Central Library.
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 5a86d7ba-dd5f-4830-90f7-81e1b125e797
@@ -2708,6 +3056,9 @@
 
 # text = Effective immediately, to better accommodate the academic needs of our student body, the library will adhere to the following extended hours.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 5a86d7ba-dd5f-4830-90f7-81e1b125e797
@@ -2738,6 +3089,9 @@
 
 # text = From Monday through Friday, the facility will remain accessible to all registered students and faculty from 8:00 AM to 10:00 PM.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 5a86d7ba-dd5f-4830-90f7-81e1b125e797
@@ -2767,6 +3121,9 @@
 
 # text = On weekends, specifically Saturday and Sunday, the library will remain open from 10:00 AM to 6:00 PM.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 5a86d7ba-dd5f-4830-90f7-81e1b125e797
@@ -2793,6 +3150,9 @@
 
 # text = This adjustment is designed to support students requiring extended periods for research, collaborative study, and quiet reflection.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 5a86d7ba-dd5f-4830-90f7-81e1b125e797
@@ -2819,6 +3179,9 @@
 
 # text = It is imperative that all patrons familiarize themselves with these new times to plan their academic activities accordingly.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 5a86d7ba-dd5f-4830-90f7-81e1b125e797
@@ -2844,6 +3207,9 @@
 
 # text = Please note that specific service desks, such as the circulation counter and inter-library loan office, may observe different internal schedules on weekends.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 5a86d7ba-dd5f-4830-90f7-81e1b125e797
@@ -2876,6 +3242,9 @@
 
 # text = The administration commends students for their diligence and gratitude for their continued commitment to academic excellence.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 5a86d7ba-dd5f-4830-90f7-81e1b125e797
@@ -2899,6 +3268,9 @@
 
 # text = For any further inquiries regarding these changes, students are invited to contact the Library Administration Office directly via the official university portal.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 5a86d7ba-dd5f-4830-90f7-81e1b125e797
@@ -2929,6 +3301,9 @@
 
 # text = We look forward to serving your scholarly pursuits during these expanded hours.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 2
 # record_id = 5a86d7ba-dd5f-4830-90f7-81e1b125e797
@@ -2948,6 +3323,9 @@
 
 # text = Attention All Students,
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = 9967b965-aa46-46b5-b482-c5bd0aa98db7
@@ -2958,6 +3336,9 @@
 
 # text = We are pleased to announce updated operating hours designed to better accommodate academic commitments and study routines.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = 9967b965-aa46-46b5-b482-c5bd0aa98db7
@@ -2982,6 +3363,9 @@
 
 # text = Effective July 1, 2024, the Main Academic Library will extend sua weekly schedule to ensure easier preparation for semester projects and standardized college tests.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = 9967b965-aa46-46b5-b482-c5bd0aa98db7
@@ -3015,6 +3399,9 @@
 
 # text = From Monday through Friday, library resources and examination areas will be open until 8 P. 9., transitioning daily during academic morning to accommodate evening self-exclamation study cycles.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = 9967b965-aa46-46b5-b482-c5bd0aa98db7
@@ -3053,6 +3440,9 @@
 
 # text = Similarly, for academic weekdays, designated entrance security barriers are being phased out instead and opening times should function optim well more hours given staff compliance of our state-approved guidelines of federal examination study frameworks.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = 9967b965-aa46-46b5-b482-c5bd0aa98db7
@@ -3098,6 +3488,9 @@
 
 # text = On Saturdays and Sundays, availability includes fully guarded entrance fuses open or to maintain a balanced coverage from early mid-morning academic schedule beginning at six o-four three daily operational administrative procedures framework includes ensuring appropriate attention to policy compliance of federally approved weekly review operations framework should strictly be designed where exam conditions improve scheduling of student needs access further based self-funded community public support assistance system policy check standards are applied systematically.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 2
 # record_id = 9967b965-aa46-46b5-b482-c5bd0aa98db7
@@ -3183,6 +3576,9 @@
 
 # text = Staff and Office of the Student Experience would respect to alert your attention changes to Standard Campus Computing in Reference Materials Use with new restrictions and use policies as determined in a collaborative effort aimed on continually raising levels of inclusivity and customer satisf..ations and accommodations along the diverse constituent of scholars of our University at Mersiprisont Campion's facilities development (Cultural S.W Databases program also offering research groups or committees in close areas engaged).
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = e65a0bf4-963f-417f-9c17-e8e50934c71a
@@ -3268,6 +3664,9 @@
 
 # text = Regular student fees which for membership that was re-depending your current grade status renewal per registration cycle until policy may that additional provisions services should use new account policy standards as posted updated records current rules as revised terms:
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = e65a0bf4-963f-417f-9c17-e8e50934c71a
@@ -3314,6 +3713,9 @@
 
 # text = Regular weekdays : MON.-L. = from8kAM:0 toW.DM(1k H)+ weekends: TH.-AL.H P(+time): G?6) ,1i0A.F(…N.G..&~
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = e65a0bf4-963f-417f-9c17-e8e50934c71a
@@ -3354,6 +3756,9 @@
 
 # text = (This description assumes it be modified as necessary by its preparerator conformants office compliance to an active final one and in addition I will revise this next revised time notated draft section page.)
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 2
 # record_id = e65a0bf4-963f-417f-9c17-e8e50934c71a
@@ -3396,6 +3801,9 @@
 
 # text = Official Announcement: Revised Library Operating Hours
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = d81059f3-9fc8-491c-9068-4328c18df2dc
@@ -3409,6 +3817,9 @@
 
 # text = Dear Students,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = d81059f3-9fc8-491c-9068-4328c18df2dc
@@ -3418,6 +3829,9 @@
 
 # text = We are pleased to announce the implementation of new operating hours for the University Library, effective immediately.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = d81059f3-9fc8-491c-9068-4328c18df2dc
@@ -3443,6 +3857,9 @@
 
 # text = These adjustments have been made to better accommodate the diverse academic schedules of our student body and to provide extended access to essential resources.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = d81059f3-9fc8-491c-9068-4328c18df2dc
@@ -3474,6 +3891,9 @@
 
 # text = Please note the following schedule: * Monday through Friday: 8:00 AM to 10:00 PM * Saturday and Sunday: 10:00 AM to 6:00 PM
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = d81059f3-9fc8-491c-9068-4328c18df2dc
@@ -3506,6 +3926,9 @@
 
 # text = We encourage all students to plan their study sessions accordingly to maximize their use of the facility.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = d81059f3-9fc8-491c-9068-4328c18df2dc
@@ -3530,6 +3953,9 @@
 
 # text = The library remains a vital hub for academic success, and we are committed to ensuring it is accessible during the most convenient times for your coursework and research.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = d81059f3-9fc8-491c-9068-4328c18df2dc
@@ -3566,6 +3992,9 @@
 
 # text = Should you have any questions regarding these changes or require assistance with library services, please do not hesitate to contact the library administration.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = d81059f3-9fc8-491c-9068-4328c18df2dc
@@ -3597,6 +4026,9 @@
 
 # text = We appreciate your continued dedication to your studies and look forward to serving you during these expanded hours.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = d81059f3-9fc8-491c-9068-4328c18df2dc
@@ -3622,6 +4054,9 @@
 
 # text = Sincerely,
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = d81059f3-9fc8-491c-9068-4328c18df2dc
@@ -3630,6 +4065,9 @@
 
 # text = The Library Administration Team
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.0
 # seed = 3
 # record_id = d81059f3-9fc8-491c-9068-4328c18df2dc
@@ -3640,6 +4078,9 @@
 
 # text = Official Notice: Updated Library Operating Hours
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = 1c38d99d-393c-416b-a61e-44e2accc27b4
@@ -3653,6 +4094,9 @@
 
 # text = Dear Students,
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = 1c38d99d-393c-416b-a61e-44e2accc27b4
@@ -3662,6 +4106,9 @@
 
 # text = We are pleased to announce that the University Library will implement new operating hours effective immediately.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = 1c38d99d-393c-416b-a61e-44e2accc27b4
@@ -3685,6 +4132,9 @@
 
 # text = These adjustments have been made to better accommodate the diverse academic schedules of our student body and to provide extended access to our resources.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = 1c38d99d-393c-416b-a61e-44e2accc27b4
@@ -3716,6 +4166,9 @@
 
 # text = Please note the following schedule: * Monday through Friday: 8:00 AM to 10:00 PM * Saturday and Sunday: 10:00 AM to 6:00 PM
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = 1c38d99d-393c-416b-a61e-44e2accc27b4
@@ -3748,6 +4201,9 @@
 
 # text = We encourage all students to plan their study sessions accordingly to take full advantage of these expanded evening hours on weekdays.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = 1c38d99d-393c-416b-a61e-44e2accc27b4
@@ -3776,6 +4232,9 @@
 
 # text = The library remains a vital hub for academic success, and we are committed to ensuring that our facilities are accessible when you need them most.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = 1c38d99d-393c-416b-a61e-44e2accc27b4
@@ -3809,6 +4268,9 @@
 
 # text = Should you have any questions regarding these changes or require assistance with library services, please do not hesitate to contact the front desk or visit our official website for further details.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = 1c38d99d-393c-416b-a61e-44e2accc27b4
@@ -3848,6 +4310,9 @@
 
 # text = We appreciate your continued dedication to your studies and look forward to serving you in this updated environment.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = 1c38d99d-393c-416b-a61e-44e2accc27b4
@@ -3873,6 +4338,9 @@
 
 # text = Sincerely,
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = 1c38d99d-393c-416b-a61e-44e2accc27b4
@@ -3881,6 +4349,9 @@
 
 # text = The Library Administration Team
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.4
 # seed = 3
 # record_id = 1c38d99d-393c-416b-a61e-44e2accc27b4
@@ -3891,6 +4362,9 @@
 
 # text = Dear Students,
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 117660ed-c147-41ac-ae2c-59c6c9068d88
@@ -3900,6 +4374,9 @@
 
 # text = We are pleased to announce a significant update to the operational schedule of the University Library, effective immediately.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 117660ed-c147-41ac-ae2c-59c6c9068d88
@@ -3926,6 +4403,9 @@
 
 # text = These revised hours are designed to better accommodate your diverse academic needs and study preferences, ensuring greater accessibility to our extensive resources during both weekdays and weekends.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 117660ed-c147-41ac-ae2c-59c6c9068d88
@@ -3961,6 +4441,9 @@
 
 # text = Please be advised that the library will now operate from Monday through Friday, from 8:00 AM to 10:00 PM.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 117660ed-c147-41ac-ae2c-59c6c9068d88
@@ -3988,6 +4471,9 @@
 
 # text = On weekends, specifically Saturdays and Sundays, the facility will remain accessible from 10:00 AM to 6:00 PM.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 117660ed-c147-41ac-ae2c-59c6c9068d88
@@ -4014,6 +4500,9 @@
 
 # text = We encourage all students to familiarize themselves with this new schedule to optimize their study routines and research activities.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 117660ed-c147-41ac-ae2c-59c6c9068d88
@@ -4040,6 +4529,9 @@
 
 # text = Your presence and engagement are vital to the academic community, and we are committed to providing a conducive environment for learning.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 117660ed-c147-41ac-ae2c-59c6c9068d88
@@ -4069,6 +4561,9 @@
 
 # text = Should you have any questions regarding these changes or require further assistance, please do not hesitate to contact the library administration staff.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 117660ed-c147-41ac-ae2c-59c6c9068d88
@@ -4099,6 +4594,9 @@
 
 # text = We look forward to serving you during these expanded hours and supporting your continued academic success.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 117660ed-c147-41ac-ae2c-59c6c9068d88
@@ -4122,6 +4620,9 @@
 
 # text = Sincerely,
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 117660ed-c147-41ac-ae2c-59c6c9068d88
@@ -4130,6 +4631,9 @@
 
 # text = The Library Management Team
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 0.8
 # seed = 3
 # record_id = 117660ed-c147-41ac-ae2c-59c6c9068d88
@@ -4140,6 +4644,9 @@
 
 # text = To the entire student body,
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4152,6 +4659,9 @@
 
 # text = The University Executive Committee is pleased to announce the implementation of new extended operating hours for the Main Library, effective immediately.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4181,6 +4691,9 @@
 
 # text = This revision aims to accommodate diverse academic schedules and provide broader access to essential study resources and extracurricular programming.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4207,6 +4720,9 @@
 
 # text = Under the revised schedule, the library will remain accessible from Monday through Friday between 08:00 and 22:00.
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4232,6 +4748,9 @@
 
 # text = Furthermore, weekend operations will be expanded, with the facility open from 10:00 to 18:00 on both Saturdays and Sundays.
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4260,6 +4779,9 @@
 
 # text = Throughout these new operating times, standard reference materials, computer terminals, and reserved group study rooms will be available to all enrolled students and staff.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4294,6 +4816,9 @@
 
 # text = We strongly encourage faculty and students to utilize these extended hours to maximize their academic productivity and collaborative work.
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4320,6 +4845,9 @@
 
 # text = Please note that non-quiet zones will still observe established noise level protocols to ensure a conducive environment for all patrons.
 # sent_id = 7
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4347,6 +4875,9 @@
 
 # text = Your cooperation in adhering to these new guidelines is appreciated.
 # sent_id = 8
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4364,6 +4895,9 @@
 
 # text = Should you have any questions regarding specific sector availability or resource restrictions during extended hours, please consult the official university website or contact the Library Services Desk directly.
 # sent_id = 9
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4400,6 +4934,9 @@
 
 # text = Sincerely,
 # sent_id = 10
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4408,6 +4945,9 @@
 
 # text = Office of Student Affairs
 # sent_id = 11
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.2
 # seed = 3
 # record_id = c28a8a67-85f9-43a1-817f-4cf195bfba9f
@@ -4418,6 +4958,9 @@
 
 # text = Notice Regarding the Revised Office Hours of the University Community Library
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = a1192434-9491-4586-9f74-f8ba1d25fe69
@@ -4435,6 +4978,9 @@
 
 # text = This communication aims to inform all students that, in light of continuous efforts to enhance the availability and operational excellence of institutional academic resources, the University General Library has revised its structural service pathways effective [insert Month, First Week e.g., January 6th], the forthcoming mid-summer 7 weeks timeline.
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = a1192434-9491-4586-9f74-f8ba1d25fe69
@@ -4497,6 +5043,9 @@
 
 # text = Consequently, designated seasonal institutional operating allocations hereby establish an accessible, guaranteed facility availability at all standard faculty faculty instructional buildings weekly terms and within associated instructional laboratory terminals effectively scheduled during non-vocation instructional and daytime study allocation time-weeks ensuring proper class registration pathway structures per regulatory compliance in full concurrence currently enforced pursuant ongoing legal contract laws establishing national statutes as generally designed to fully apply current employment policies established in recent state revisions where institutional education pathways shall uniformly acknowledge all historical academic funding as requested required standard processes applied for independent, funded non-general employment allocations and all involved enrollment facilities maintaining the original terms agreements scheduled from Mondays beginning at a public starting to twenty-two thirty twelve no midday non-standard date operating standards designated annually according generally established weekend adjustments available until approximately eight fourteen from noon including the remaining formal available mid-April general office starting dates from Fridays evening available to early evening available office opening dates ensuring continuous authorized class study terms maintained continuously daily between the commencement and cancellation authorizations of existing standard assignments recognized universally per administrative governing operational document as set here forth exactly in accordance current governing operational financial code requirements published presently.
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 1.6
 # seed = 3
 # record_id = a1192434-9491-4586-9f74-f8ba1d25fe69
@@ -4712,6 +5261,9 @@
 
 # text = *
 # sent_id = 0
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = ac6fc20d-41f6-4072-a321-655da1d0187f
@@ -4719,6 +5271,9 @@
 
 # text = Subject: Updated Oper-hours for Dorrington Municipal Archive Commons
 # sent_id = 1
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = ac6fc20d-41f6-4072-a321-655da1d0187f
@@ -4736,6 +5291,9 @@
 
 # text = Dear Dorrion Museum Archives Clients, School Afforiers Doriagon Mus and Educatee Users, Patronas
 # sent_id = 2
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = ac6fc20d-41f6-4072-a321-655da1d0187f
@@ -4757,6 +5315,9 @@
 
 # text = Encouraged the expansion up one into serving scholarly individual families and city people educational uses better all times it has moved by this long service quality operation point every corner, one is kindly advisurating its last new formal change opening line details, Monday Friday each seven is from day month dawn first Tuesday late morning Monday of then ten in next clock-hour Tuesday pm Tuesday through last-week Friday - as-sis out-dane sunday morning
 # sent_id = 3
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = ac6fc20d-41f6-4072-a321-655da1d0187f
@@ -4846,6 +5407,9 @@
 
 # text = New terms opened ten last closed noon mid-frisk as an every from earliest lastest-possible-one of six a.p. .
 # sent_id = 4
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = ac6fc20d-41f6-4072-a321-655da1d0187f
@@ -4874,6 +5438,9 @@
 
 # text = Such information point and date detail no matter place.
 # sent_id = 5
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = ac6fc20d-41f6-4072-a321-655da1d0187f
@@ -4890,6 +5457,9 @@
 
 # text = I now whole you some as part team whole Cemation all of this text sent long full for final, sure use clear details:
 # sent_id = 6
+# model = qwen/qwen3.8-27b
+# language = english
+# prompt_type = formal
 # temperature = 2.0
 # seed = 3
 # record_id = ac6fc20d-41f6-4072-a321-655da1d0187f
