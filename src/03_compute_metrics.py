@@ -1,69 +1,105 @@
 import csv
-from pathlib import Path
+
 from pyconll.conllu import conllu
-from stanza.utils.conll import CoNLL
 
-base_dir = Path(__file__).resolve().parent
+from common import PARSED_DIR, METRICS_DIR
 
-project_root = base_dir.parent
-parsed_proc = project_root / 'results' / 'parsed'
-metrics_proc = project_root / 'results' / 'metrics'
+METRICS_DATA = [
+    'model', 
+    'language', 
+    'prompt_type', 
+    'sent_id',
+    'length', 
+    'max_depth', 
+    'mean_depth', 
+    'mdd',
+    'temperature', 
+    'seed', 
+    'record_id'
+]
 
-metrics_proc.mkdir(parents=True, exist_ok=True) 
+def get_depths(tokens, heads):
+    depths = []
+    for token in tokens:
+        depth = 0
+        current = int(token.id)
+        while current != 0:
+            current = heads[current]
+            depth += 1
+        depths.append(depth)
+    return depths
 
-rows = []
+def compute_sentence_metrics(sentence):
+    sent_id = int(sentence.meta['sent_id'])
+    tokens = [t for t in sentence.tokens if t.head is not None]
+    if not tokens:
+        return None
 
-for file in parsed_proc.glob('*.conllu'):
-    metrics = conllu.load_from_file(file)
-    
-    for sentence in metrics:
-        sent_id = int(sentence.meta['sent_id'])
-        tokens = [t for t in sentence.tokens if t.head is not None]
-            
-        if not tokens:
+    heads = {int(t.id): int(t.head) for t in tokens}
+    depths = get_depths(tokens, heads)
+
+    length = len(tokens)
+    max_depth = max(depths)
+    mean_depth = sum(depths) / len(depths)
+
+    dd_sum = 0
+    number = 0
+    for token in tokens:
+        head = heads[int(token.id)]
+        if head != 0:
+            dd_sum += abs(int(token.id) - head)
+            number += 1
+    if number == 0:
+        return None
+
+    mdd = dd_sum / number
+
+    return {
+        'sent_id': sent_id,
+        'length': length,
+        'max_depth': max_depth,
+        'mean_depth': mean_depth,
+        'mdd': mdd,
+    }
+
+def build_row(sentence, metrics):
+    return [
+        sentence.meta['model'],
+        sentence.meta['language'],
+        sentence.meta['prompt_type'],
+        metrics['sent_id'],
+        metrics['length'],
+        metrics['max_depth'],
+        metrics['mean_depth'],
+        metrics['mdd'],
+        sentence.meta['temperature'],
+        sentence.meta['seed'],
+        sentence.meta['record_id'],
+    ]
+
+def process_file(path):
+    rows = []
+    doc = conllu.load_from_file(path)
+    for sentence in doc:
+        metrics = compute_sentence_metrics(sentence)
+        if metrics is None:
             continue
-            
-        metrics_dict = {}
-            
-        for token in tokens:
-            metrics_dict[int(token.id)] = int(token.head)
+        rows.append(build_row(sentence, metrics))
+    return rows
 
-        depths = []
+def write_csv(rows, path):
+    with open(path, 'w', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(METRICS_DATA)
+        writer.writerows(rows)
 
-        for token in tokens:
-            current = int(token.id)
-            depth = 0
-            while current != 0:
-                current = metrics_dict[current]
-                depth = depth + 1
-            depths.append(depth)
-        max_depth = max(depths)
-        file_name = file.stem
-        length = len(tokens)
-        dd_sum = 0
-        number = 0
-        for token in tokens:
-            head = metrics_dict[int(token.id)]
-            if head != 0:
-                dd_sum = dd_sum + abs(int(token.id) - int(head))
-                number = number + 1
-        if number == 0:
-            continue
-        mdd = dd_sum / number
-        mean_depth = sum(depths) / len(depths)
-        model = sentence.meta['model']
-        language = sentence.meta['language']
-        prompt_type = sentence.meta['prompt_type']
-        temperature = sentence.meta['temperature']
-        seed = sentence.meta['seed']
-        record_id = sentence.meta['record_id']
-        
-        rows.append([model, language, prompt_type, sent_id, length, max_depth, mean_depth, mdd, temperature, seed, record_id])
-        
-with open(metrics_proc / 'metrics.csv', 'w', newline='') as f:
-    writer = csv.writer(f)
-    writer.writerow(['model', 'language', 'prompt_type', 'sent_id', 'length', 'max_depth', 'mean_depth', 'mdd', 'temperature', 'seed', 'record_id'])
-    for row in rows:
-        writer.writerow(row)
+def main():
+    METRICS_DIR.mkdir(parents=True, exist_ok=True)
+    rows = []
+    for file in PARSED_DIR.glob('*.conllu'):
+        rows.extend(process_file(file))
+    write_csv(rows, METRICS_DIR / 'metrics.csv')
+    print(len(rows))
 
-print(len(rows))
+if __name__ == '__main__':
+    main()
