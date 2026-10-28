@@ -20,6 +20,7 @@ COLORS = {
 STYLES = {'formal': '-', 'casual': '--'}
 XTICKS = [0.0, 0.4, 0.8, 1.2, 1.6, 2.0]
 
+
 def build_pivot_table(df, metric):
     return pd.pivot_table(
         data=df,
@@ -29,7 +30,18 @@ def build_pivot_table(df, metric):
         aggfunc='median',
     )
 
-def plot_model(table, metric, model_name, languages, prompt_types, output_path):
+
+def compute_ylim(table, languages, prompt_types, margin=0.05):
+    values = []
+    for model_name in table.columns.get_level_values('model').unique():
+        for lang, p_type in product(languages, prompt_types):
+            values.extend(table[model_name][lang][p_type].dropna().tolist())
+    low, high = min(values), max(values)
+    pad = (high - low) * margin if high > low else 0.0
+    return low - pad, high + pad
+
+
+def plot_model(table, metric, model_name, languages, prompt_types, output_path, ylim=None):
     for lang, p_type in product(languages, prompt_types):
         plt.plot(
             table.index,
@@ -43,8 +55,11 @@ def plot_model(table, metric, model_name, languages, prompt_types, output_path):
     plt.ylabel(metric)
     plt.legend()
     plt.xticks(XTICKS)
+    if ylim is not None:
+        plt.ylim(*ylim)
     plt.savefig(output_path)
     plt.close()
+    
 
 def main():
     ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
@@ -56,6 +71,7 @@ def main():
 
     for metric in METRICS:
         table = build_pivot_table(df, metric)
+        ylim = compute_ylim(table, languages, prompt_types)
         for model_name in models:
             plot_model(
                 table,
@@ -64,7 +80,9 @@ def main():
                 languages,
                 prompt_types,
                 ANALYSIS_DIR / f'{metric}_{safe_name(model_name)}.pdf',
+                ylim=ylim
             )
+
 
 if __name__ == '__main__':
     main()
