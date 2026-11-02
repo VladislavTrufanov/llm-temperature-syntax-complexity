@@ -32,11 +32,16 @@ def groq_client():
 
 
 def llm_reasoning_effort(model):
+    """Return kwargs for reasoning effort; empty dict for unknown models.
+    
+    Higher reasoning levels burn through the token limit before the model
+    produces an answer.
+    """
     kwargs = {}
     if "gpt-oss" in model:
         kwargs["reasoning_effort"] = "low"
     elif "qwen3.8" in model:
-        kwargs["reasoning_effort"] = "default"
+        kwargs["reasoning_effort"] = "none"
     return kwargs
 
 
