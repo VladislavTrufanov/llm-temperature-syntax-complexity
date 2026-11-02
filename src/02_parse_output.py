@@ -6,13 +6,6 @@ from stanza.utils.conll import CoNLL
 
 from common import dataset_stem, load_grid, LLM_OUTPUT_DIR, PARSED_DIR, LANG_CODES, METADATA_FIELDS
 
-PARSED_DIR.mkdir(parents=True, exist_ok=True)
-
-pipelines = {}
-for key, value in LANG_CODES.items():
-    pipelines[key] = stanza.Pipeline(value, processors='tokenize,pos,lemma,depparse', download_method=None)
-
-
 def extract_text(content):
     """Return plain text from an LLM output field.
 
@@ -62,16 +55,32 @@ def parse_file(jsonl_path, out_path, nlp):
             CoNLL.write_doc2conll(doc, str(out_path), 'a')
 
 
-grid = load_grid()
-for i, (model, language, prompt_type) in enumerate(
-    product(
-        grid["models"],
-        grid["languages"],
-        grid["prompt_types"]
-    ),
-    start=1
-    ):
+def main():
+    """Parse LLM outputs with Stanza into CoNLL-U files."""
+    PARSED_DIR.mkdir(parents=True, exist_ok=True)
+    grid = load_grid()
     
-    print(f"{i}: {model} {language} {prompt_type}", flush=True)
-    stem = dataset_stem(model, language, prompt_type)
-    parse_file(LLM_OUTPUT_DIR / f"{stem}.jsonl", PARSED_DIR / f"{stem}.conllu", pipelines[language])
+    pipelines = {
+        key: stanza.Pipeline(
+            value,
+            processors='tokenize,pos,lemma,depparse',
+            download_method=None,
+        )
+        for key, value in LANG_CODES.items()
+    }
+    
+    for i, (model, language, prompt_type) in enumerate(
+        product(
+            grid["models"],
+            grid["languages"],
+            grid["prompt_types"]
+        ),
+        start=1
+    ):
+        print(f"{i}: {model} {language} {prompt_type}", flush=True)
+        stem = dataset_stem(model, language, prompt_type)
+        parse_file(LLM_OUTPUT_DIR / f"{stem}.jsonl", PARSED_DIR / f"{stem}.conllu", pipelines[language])
+
+
+if __name__ == "__main__":
+    main()
