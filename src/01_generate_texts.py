@@ -11,19 +11,25 @@ from groq import Groq
 
 from common import PROJECT_ROOT, PROMPTS_DIR, LLM_OUTPUT_DIR, dataset_stem, load_grid
 
+# Sampling and output shape.
 TOP_P = 1.0
-MAX_TOKENS = 384
-PAUSE_SECONDS = 30
-MAX_RETRIES = 3
-RETRY_WAIT = 30
+MAX_TOKENS = 384  # Limits output length (not a rate-limit knob).
+
+# Rate limiting and retry settings for Groq API.
+PAUSE_SECONDS = 30 # Pause between requests to avoid rate limiting.
+MAX_RETRIES = 3 # Total attempts per request, including the first one.
+RETRY_WAIT = 30 # Backoff time in seconds between retries.
+
 
 def groq_client():
+    """Return a Groq client instance using the API key from the .env file."""
     load_dotenv(PROJECT_ROOT / '.env')
     api_key = os.getenv("GROQ_API_KEY")
     if api_key is None:
-        print('Add API Key')
+        print('GROQ_API_KEY not found in .env')
         sys.exit(1)
     return Groq(api_key=api_key)
+
 
 def llm_reasoning_effort(model):
     kwargs = {}
@@ -33,7 +39,13 @@ def llm_reasoning_effort(model):
         kwargs["reasoning_effort"] = "default"
     return kwargs
 
+
 def generate_texts(client, model, messages, temperature, seed):
+    """Request a single completion from Groq and normalize the response.
+
+    Returns a dict with the output, api_* metadata, token counts,
+    finish_reason, and error (None on success).
+    """
     completion = client.chat.completions.create(
         model=model,
         messages=messages,
@@ -54,7 +66,13 @@ def generate_texts(client, model, messages, temperature, seed):
         "error": None,
     }
 
+
 def error_record(error):
+    """Return the same keys as generate_texts, but with error information.
+    
+    All metrics are None; error holds "ClassName: message". This keeps
+    the JSONL schema identical for successful and failed records.
+    """
     return {
         "output": None,
         "api_id": None,
@@ -66,7 +84,14 @@ def error_record(error):
         "error": f"{type(error).__name__}: {error}",
     }
 
+
 def fetch_data_with_retries(client, model, messages, temperature, seed):
+    """Call generate_texts with retries.
+
+    Makes up to MAX_RETRIES attempts in total, waiting RETRY_WAIT seconds
+    between them (constants at the top of the file). When all attempts
+    fail, returns error_record(e) instead of raising.
+    """
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             return generate_texts(client, model, messages, temperature, seed)
@@ -76,11 +101,17 @@ def fetch_data_with_retries(client, model, messages, temperature, seed):
                 return error_record(e)
             time.sleep(RETRY_WAIT)
 
+
 def append_record(path, record):
+    """Append a record to a JSONL file at the specified path."""
     with open(path, 'a', encoding='utf-8') as f:
         f.write(json.dumps(record, ensure_ascii=False) + '\n')
 
+
 def main():
+    """Iterate over the full grid and write one JSONL file per
+    (model, language, prompt_type) triple into LLM_OUTPUT_DIR.
+    """
     LLM_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     client = groq_client()
     grid = load_grid()
@@ -115,6 +146,7 @@ def main():
         append_record(path, record)
 
         time.sleep(PAUSE_SECONDS)
+
 
 if __name__ == "__main__":
     main()
